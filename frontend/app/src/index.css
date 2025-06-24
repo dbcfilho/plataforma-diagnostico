@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Adicionar estilos globais personalizados aqui, se necessário */
+body {
+  @apply font-sans antialiased;
+}
+
