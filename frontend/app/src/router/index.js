@@ -1,35 +1,36 @@
-import { createRouter, createWebHistory } from \"vue-router\";
-import { useAuthStore } from \"../stores/auth\"; // Importar store para o guard
+import { createRouter, createWebHistory } from "vue-router";
+// A linha abaixo deve ser descomentada quando você criar sua store (Pinia)
+// import { useAuthStore } from "../stores/auth";
 
 const routes = [
   {
-    path: \"/login\",
-    name: \"Login\",
-    component: () => import(\"../views/LoginView.vue\"),
+    path: "/login",
+    name: "Login",
+    component: () => import("../views/LoginView.vue"),
     meta: { requiresAuth: false }
   },
   {
-    path: \"/\",
-    name: \"Dashboard\",
-    component: () => import(\"../views/DashboardView.vue\"),
+    path: "/",
+    name: "Dashboard",
+    component: () => import("../views/DashboardView.vue"),
     meta: { requiresAuth: true }
   },
   {
-    path: \"/admin\",
-    name: \"AdminPanel\",
-    component: () => import(\"../views/AdminPanelView.vue\"),
+    path: "/admin",
+    name: "AdminPanel",
+    component: () => import("../views/AdminPanelView.vue"),
     meta: { requiresAuth: true, requiresAdmin: true }
   },
   {
-    path: \"/professor\", // Rota para a área do professor
-    name: \"TeacherPanel\",
-    component: () => import(\"../views/TeacherPanelView.vue\"),
-    meta: { requiresAuth: true } // Requer apenas autenticação
+    path: "/professor",
+    name: "TeacherPanel",
+    component: () => import("../views/TeacherPanelView.vue"),
+    meta: { requiresAuth: true }
   },
   {
-    path: \"/:pathMatch(.*)*\",
-    name: \"NotFound\",
-    component: () => import(\"../views/NotFoundView.vue\")
+    path: "/:pathMatch(.*)*",
+    name: "NotFound",
+    component: () => import("../views/NotFoundView.vue")
   }
 ];
 
@@ -38,33 +39,27 @@ const router = createRouter({
   routes,
 });
 
+// Lógica de proteção de rotas (Route Guard)
 router.beforeEach((to, from, next) => {
-  const auth = useAuthStore();
-  if (!auth.token) {
-      auth.initialize();
-  }
-
-  const isAuthenticated = auth.isAuthenticated;
-  // Assumindo que a store tem uma forma de identificar se o usuário é professor ou admin
-  // Exemplo: const isTeacher = auth.isTeacher; 
-  const isAdminUser = auth.isAdmin;
+  // Exemplo de verificação simples via localStorage.
+  // Substitua pela sua lógica com a store (Pinia) quando estiver pronta.
+  const isAuthenticated = !!localStorage.getItem('authToken');
+  const userRole = localStorage.getItem('userRole'); // Ex: 'admin', 'teacher'
 
   if (to.meta.requiresAuth && !isAuthenticated) {
-    next({ name: \"Login\", query: { redirect: to.fullPath } });
-  } else if (to.meta.requiresAdmin && !isAdminUser) {
-    console.warn(\"Acesso não autorizado à rota admin.\");
-    next({ name: \"Dashboard\" }); 
-  } 
-  // Adicionar verificação para rota de professor se necessário (ex: só professor acessa /professor)
-  // else if (to.name === \"TeacherPanel\" && !isTeacher) {
-  //   next({ name: \"Dashboard\" });
-  // }
-  else if (to.name === \"Login\" && isAuthenticated) {
-    next({ name: \"Dashboard\" });
+    // Se a rota exige autenticação e o usuário não está logado, redireciona para o login.
+    next({ name: "Login", query: { redirect: to.fullPath } });
+  } else if (to.meta.requiresAdmin && userRole !== 'admin') {
+    // Se a rota exige admin e o usuário não é admin, redireciona para o dashboard.
+    console.warn("Acesso não autorizado à rota de admin.");
+    next({ name: "Dashboard" });
+  } else if (to.name === "Login" && isAuthenticated) {
+    // Se o usuário já está logado e tenta acessar a página de login, redireciona para o dashboard.
+    next({ name: "Dashboard" });
   } else {
+    // Em todos os outros casos, permite o acesso.
     next();
   }
 });
 
 export default router;
-

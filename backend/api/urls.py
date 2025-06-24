@@ -1,35 +1,33 @@
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from .views import (
-    EscolaViewSet, TurmaViewSet, ProfessorViewSet, AlunoViewSet,
-    AvaliacaoViewSet, FrequenciaViewSet, DiagnosticoViewSet,
-    ImportDataView,
-    # Importa as novas views de BI e Exportação
-    DashboardRiskDistributionView,
-    DashboardPerformanceEvolutionView,
-    ExportAlunosCSVView
+    EscolaViewSet, TurmaViewSet, AlunoViewSet, ProfessorViewSet,
+    DisciplinaViewSet, AvaliacaoViewSet, FrequenciaViewSet, UserCreateView,
+    DashboardDiagnosticoView,
+    # Importação das novas views de listagem
+    AlunoListDataView, AvaliacaoListDataView, ProfessorListDataView
 )
 
-# Cria um router para registrar as ViewSets CRUD
 router = DefaultRouter()
-router.register(r\"escolas\", EscolaViewSet, basename=\"escola\")
-router.register(r\"turmas\", TurmaViewSet, basename=\"turma\")
-router.register(r\"professores\", ProfessorViewSet, basename=\"professor\")
-router.register(r\"alunos\", AlunoViewSet, basename=\"aluno\")
-router.register(r\"avaliacoes\", AvaliacaoViewSet, basename=\"avaliacao\")
-router.register(r\"frequencias\", FrequenciaViewSet, basename=\"frequencia\")
-router.register(r\"diagnosticos\", DiagnosticoViewSet, basename=\"diagnostico\")
+# Registros das ViewSets CRUD padrão
+router.register(r"escolas", EscolaViewSet)
+router.register(r"turmas", TurmaViewSet)
+router.register(r"alunos", AlunoViewSet)
+router.register(r"professores", ProfessorViewSet)
+router.register(r"disciplinas", DisciplinaViewSet)
+router.register(r"avaliacoes", AvaliacaoViewSet)
+router.register(r"frequencias", FrequenciaViewSet)
 
-# URLs da API
 urlpatterns = [
-    # URLs das ViewSets CRUD (geradas pelo router)
-    path(\"\", include(router.urls)),
-    # URL para importação de dados
-    path(\"import-data/\", ImportDataView.as_view(), name=\"import_data\"),
-    # URLs para os Dashboards de BI
-    path(\"dashboard/risk-distribution/\", DashboardRiskDistributionView.as_view(), name=\"dashboard_risk_distribution\"),
-    path(\"dashboard/performance-evolution/\", DashboardPerformanceEvolutionView.as_view(), name=\"dashboard_performance_evolution\"),
-    # URL para exportação CSV
-    path(\"export/alunos-csv/\", ExportAlunosCSVView.as_view(), name=\"export_alunos_csv\"),
+    # Rotas específicas primeiro
+    path("register/", UserCreateView.as_view(), name="user_register"),
+    path("dashboard/diagnosticos/", DashboardDiagnosticoView.as_view(), name="dashboard_diagnosticos"),
+    
+    # Rotas de listagem de dados para o dashboard
+    path("data/alunos/", AlunoListDataView.as_view(), name="data_alunos"),
+    path("data/avaliacoes/", AvaliacaoListDataView.as_view(), name="data_avaliacoes"),
+    path("data/professores/", ProfessorListDataView.as_view(), name="data_professores"),
+    
+    # Rotas CRUD padrão no final
+    path("", include(router.urls)),
 ]
-
