@@ -1,0 +1,201 @@
+professor_id,nome,disciplina_principal
+1,Maria Cecília Abreu,Matemática
+2,Ana Lívia Castro,Ciências
+3,Otávio Marques,Ciências
+4,Evelyn Ferreira,Português
+5,Olivia Mendonça,Ciências
+6,Heloísa da Luz,Geografia
+7,Srta. Sara Brito,Geografia
+8,Srta. Melissa Pinto,Matemática
+9,Sofia Mendonça,Ciências
+10,Lavínia Ribeiro,História
+11,Vitor Teixeira,História
+12,Ana Novaes,Geografia
+13,Sophia Moraes,História
+14,Daniel da Cunha,Ciências
+15,Sra. Alexia da Rosa,Matemática
+16,Srta. Aurora Vieira,Ciências
+17,Liz Ferreira,Português
+18,Bento Barros,Matemática
+19,Nina Cavalcanti,Geografia
+20,Théo Fogaça,Geografia
+21,Maria Julia Fernandes,Português
+22,Maria Liz Almeida,História
+23,Dr. Thiago Leão,Ciências
+24,Dra. Ana Julia Pinto,Português
+25,Isabela da Cunha,Geografia
+26,Rodrigo Moraes,Matemática
+27,Henrique Silva,Matemática
+28,Isaac Camargo,Geografia
+29,Alexandre Andrade,Português
+30,Vinícius Dias,História
+31,Sr. Anthony Gabriel Pinto,Ciências
+32,Sr. Dante Cirino,Ciências
+33,Rafaela Barbosa,Geografia
+34,Julia Rocha,Ciências
+35,Srta. Maria Sophia Peixoto,Matemática
+36,Benício Cunha,Matemática
+37,Srta. Cecilia Ribeiro,Geografia
+38,Ana Júlia Duarte,Ciências
+39,Mathias Camargo,Português
+40,Lorenzo da Luz,Português
+41,Sophie Sá,Ciências
+42,Dr. Marcelo Almeida,Português
+43,Marcos Vinicius Barbosa,Português
+44,Sofia Barbosa,História
+45,Sr. Enrico Alves,Matemática
+46,Arthur Aragão,Matemática
+47,Matteo Vasconcelos,Português
+48,Luiz Miguel Sampaio,Português
+49,Maria Luiza Campos,Português
+50,Maria Vitória Nascimento,História
+51,Beatriz Cavalcanti,História
+52,Alana Monteiro,Português
+53,Pedro Novaes,Português
+54,Mateus Cardoso,História
+55,Cauê Barbosa,Ciências
+56,Calebe Fernandes,História
+57,Yago Alves,Ciências
+58,Carolina da Luz,Matemática
+59,Samuel Nascimento,Português
+60,Vitor Hugo Borges,Português
+61,Daniela Ramos,Ciências
+62,Alice da Mota,História
+63,Luiz Henrique Cirino,Português
+64,Srta. Esther Sá,História
+65,Marina Ramos,Geografia
+66,Enzo Aragão,História
+67,Antônio Albuquerque,Português
+68,Benjamin Montenegro,Geografia
+69,Luiz Gustavo Ferreira,Matemática
+70,Lorenzo Macedo,História
+71,Murilo Pinto,História
+72,Enzo Vargas,História
+73,Giovanna Rodrigues,Matemática
+74,Dra. Luara Almeida,História
+75,Pedro Henrique Silva,Geografia
+76,Emanuelly Castro,Português
+77,Bárbara Cirino,Geografia
+78,Maria Cecília Guerra,Matemática
+79,Mariane Rios,Ciências
+80,Sr. Enzo Gabriel Cardoso,História
+81,Josué Dias,Português
+82,Antony Costa,Ciências
+83,Dra. Ayla Silveira,Português
+84,Brenda da Rocha,História
+85,Helena da Mata,História
+86,Mariane Siqueira,Português
+87,Rodrigo Castro,Português
+88,Clara Lopes,Matemática
+89,Sra. Olívia Pimenta,Português
+90,Thiago Carvalho,Matemática
+91,Dr. Anthony Gabriel Rezende,Geografia
+92,Valentim da Mota,Português
+93,João Porto,Matemática
+94,Dante Aparecida,Ciências
+95,Rael Cunha,Geografia
+96,Isabella da Mata,Geografia
+97,Allana Silveira,Geografia
+98,Srta. Laura Teixeira,Matemática
+99,Ana Luiza da Paz,Geografia
+100,Anna Liz da Cruz,Geografia
+101,Lucas Gabriel Farias,Matemática
+102,Emanuelly Lopes,História
+103,Felipe Silva,Matemática
+104,José Miguel Borges,Ciências
+105,Heitor Teixeira,Matemática
+106,Sr. Mateus Ferreira,Geografia
+107,Anthony Gabriel Aparecida,Matemática
+108,João Guilherme Carvalho,História
+109,Sr. Isaque da Rosa,Matemática
+110,Sra. Ana Sophia Pereira,História
+111,Catarina Castro,Português
+112,José Miguel Pacheco,História
+113,Benjamin Montenegro,Matemática
+114,Ana Luiza Costela,Ciências
+115,Vitor Vargas,Ciências
+116,Dra. Maitê da Rosa,História
+117,Theo Fonseca,Geografia
+118,Augusto da Rosa,Ciências
+119,Sra. Maysa Fogaça,Ciências
+120,Maria Vitória Machado,Matemática
+121,Maria Cecília Nogueira,Ciências
+122,Ana Julia Macedo,Português
+123,Levi Sá,História
+124,Zoe Moraes,Ciências
+125,Mathias Sá,Ciências
+126,Heloísa Freitas,Geografia
+127,Dra. Melina Azevedo,Ciências
+128,Srta. Kamilly Cirino,História
+129,Dr. Igor Mendes,Geografia
+130,Alexandre da Luz,Português
+131,Luiz Gustavo da Mota,Ciências
+132,Sr. Diogo Gomes,História
+133,Sophia Gonçalves,História
+134,Alexia Azevedo,Português
+135,Yan Mendonça,História
+136,Giovanna Sales,Geografia
+137,João Miguel da Rocha,Geografia
+138,Dante Pacheco,Ciências
+139,Juan Cirino,Português
+140,Pietra Martins,Matemática
+141,Sra. Maria Vitória Melo,História
+142,Srta. Ana Carolina da Rosa,Matemática
+143,Henry Teixeira,História
+144,João Lucas da Cunha,Português
+145,Jade Fogaça,Geografia
+146,Kamilly Sampaio,Português
+147,Theodoro Dias,Ciências
+148,Maria Flor Correia,Geografia
+149,Olívia Castro,Geografia
+150,Davi Miguel Nunes,Matemática
+151,Noah Martins,Matemática
+152,Davi Leão,Português
+153,Ana Sophia Leão,Ciências
+154,Sr. João Gabriel Peixoto,Geografia
+155,Marcos Vinicius Albuquerque,Ciências
+156,Júlia Nogueira,Ciências
+157,Liam Aparecida,Português
+158,Dante da Paz,Ciências
+159,Kevin Aragão,História
+160,Thomas Borges,História
+161,Manuella Ribeiro,Português
+162,Isadora da Mota,Ciências
+163,Maria Laura da Luz,Matemática
+164,Liam Vasconcelos,Ciências
+165,Sarah da Luz,História
+166,Marcos Vinicius da Costa,Português
+167,Evelyn Jesus,Ciências
+168,Sra. Nicole Leão,História
+169,Ravi Moreira,Matemática
+170,Sr. Asafe Carvalho,Matemática
+171,Maria Luiza Carvalho,História
+172,Caleb Pires,Geografia
+173,Otto da Mota,História
+174,Anthony Gabriel Sousa,Matemática
+175,Maria Luísa Vieira,Ciências
+176,Marcelo Oliveira,Ciências
+177,Zoe da Rosa,Geografia
+178,Renan da Costa,Geografia
+179,Aurora Azevedo,Ciências
+180,Alana Siqueira,Ciências
+181,Srta. Maya Ribeiro,Matemática
+182,Srta. Maria Isis Costela,Matemática
+183,Juan Fogaça,Geografia
+184,Marcos Vinicius da Paz,Geografia
+185,Agatha Lima,Ciências
+186,Leonardo da Mata,Matemática
+187,Mariane Vasconcelos,Matemática
+188,Murilo Oliveira,História
+189,Dom Oliveira,Português
+190,Caio Lopes,Geografia
+191,Miguel Pastor,Ciências
+192,Bento Cavalcante,Matemática
+193,Vinicius Sá,Geografia
+194,Lara Freitas,Geografia
+195,Kaique das Neves,Português
+196,Matheus da Mota,História
+197,Ana da Paz,História
+198,Bruna Garcia,Português
+199,Renan Souza,História
+200,Maria Isis Fonseca,Geografia

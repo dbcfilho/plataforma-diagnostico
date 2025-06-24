@@ -1,0 +1,1001 @@
+diagnostico_id,aluno_id,resultado,alerta_gerado,perfil_aprendizagem,data_diagnostico
+1,1,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+2,2,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+3,3,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+4,4,Atenção,Baixo Risco,Perfil B,2025-05-24
+5,5,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+6,6,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+7,7,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+8,8,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+9,9,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+10,10,Atenção,Baixo Risco,Perfil A,2025-05-24
+11,11,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+12,12,Atenção,Baixo Risco,Perfil C,2025-05-24
+13,13,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+14,14,Atenção,Baixo Risco,Perfil A,2025-05-24
+15,15,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+16,16,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+17,17,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+18,18,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+19,19,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+20,20,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+21,21,Atenção,Baixo Risco,Perfil A,2025-05-24
+22,22,Atenção,Baixo Risco,Perfil C,2025-05-24
+23,23,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+24,24,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+25,25,Atenção,Baixo Risco,Perfil A,2025-05-24
+26,26,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+27,27,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+28,28,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+29,29,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+30,30,Atenção,Baixo Risco,Perfil B,2025-05-24
+31,31,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+32,32,Atenção,Baixo Risco,Perfil A,2025-05-24
+33,33,Atenção,Baixo Risco,Perfil B,2025-05-24
+34,34,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+35,35,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+36,36,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+37,37,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+38,38,Atenção,Baixo Risco,Perfil C,2025-05-24
+39,39,Atenção,Baixo Risco,Perfil C,2025-05-24
+40,40,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+41,41,Atenção,Baixo Risco,Perfil A,2025-05-24
+42,42,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+43,43,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+44,44,Atenção,Baixo Risco,Perfil B,2025-05-24
+45,45,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+46,46,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+47,47,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+48,48,Atenção,Baixo Risco,Perfil B,2025-05-24
+49,49,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+50,50,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+51,51,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+52,52,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+53,53,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+54,54,Atenção,Baixo Risco,Perfil C,2025-05-24
+55,55,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+56,56,Atenção,Baixo Risco,Perfil C,2025-05-24
+57,57,Atenção,Baixo Risco,Perfil B,2025-05-24
+58,58,Atenção,Baixo Risco,Perfil C,2025-05-24
+59,59,Atenção,Baixo Risco,Perfil C,2025-05-24
+60,60,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+61,61,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+62,62,Atenção,Baixo Risco,Perfil C,2025-05-24
+63,63,Atenção,Baixo Risco,Perfil B,2025-05-24
+64,64,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+65,65,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+66,66,Atenção,Baixo Risco,Perfil A,2025-05-24
+67,67,Atenção,Baixo Risco,Perfil B,2025-05-24
+68,68,Atenção,Baixo Risco,Perfil A,2025-05-24
+69,69,Atenção,Baixo Risco,Perfil A,2025-05-24
+70,70,Atenção,Baixo Risco,Perfil B,2025-05-24
+71,71,Atenção,Baixo Risco,Perfil A,2025-05-24
+72,72,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+73,73,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+74,74,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+75,75,Atenção,Baixo Risco,Perfil C,2025-05-24
+76,76,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+77,77,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+78,78,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+79,79,Atenção,Baixo Risco,Perfil B,2025-05-24
+80,80,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+81,81,Atenção,Baixo Risco,Perfil C,2025-05-24
+82,82,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+83,83,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+84,84,Atenção,Baixo Risco,Perfil C,2025-05-24
+85,85,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+86,86,Atenção,Baixo Risco,Perfil A,2025-05-24
+87,87,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+88,88,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+89,89,Atenção,Baixo Risco,Perfil C,2025-05-24
+90,90,Atenção,Baixo Risco,Perfil C,2025-05-24
+91,91,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+92,92,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+93,93,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+94,94,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+95,95,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+96,96,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+97,97,Atenção,Baixo Risco,Perfil C,2025-05-24
+98,98,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+99,99,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+100,100,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+101,101,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+102,102,Atenção,Baixo Risco,Perfil B,2025-05-24
+103,103,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+104,104,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+105,105,Atenção,Baixo Risco,Perfil C,2025-05-24
+106,106,Atenção,Baixo Risco,Perfil C,2025-05-24
+107,107,Atenção,Baixo Risco,Perfil C,2025-05-24
+108,108,Atenção,Baixo Risco,Perfil C,2025-05-24
+109,109,Atenção,Baixo Risco,Perfil C,2025-05-24
+110,110,Atenção,Baixo Risco,Perfil A,2025-05-24
+111,111,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+112,112,Atenção,Baixo Risco,Perfil A,2025-05-24
+113,113,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+114,114,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+115,115,Atenção,Baixo Risco,Perfil C,2025-05-24
+116,116,Atenção,Baixo Risco,Perfil C,2025-05-24
+117,117,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+118,118,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+119,119,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+120,120,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+121,121,Atenção,Baixo Risco,Perfil A,2025-05-24
+122,122,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+123,123,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+124,124,Atenção,Baixo Risco,Perfil C,2025-05-24
+125,125,Atenção,Baixo Risco,Perfil A,2025-05-24
+126,126,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+127,127,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+128,128,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+129,129,Atenção,Baixo Risco,Perfil A,2025-05-24
+130,130,Atenção,Baixo Risco,Perfil C,2025-05-24
+131,131,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+132,132,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+133,133,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+134,134,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+135,135,Atenção,Baixo Risco,Perfil B,2025-05-24
+136,136,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+137,137,Atenção,Baixo Risco,Perfil A,2025-05-24
+138,138,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+139,139,Atenção,Baixo Risco,Perfil C,2025-05-24
+140,140,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+141,141,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+142,142,Atenção,Baixo Risco,Perfil B,2025-05-24
+143,143,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+144,144,Atenção,Baixo Risco,Perfil B,2025-05-24
+145,145,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+146,146,Atenção,Baixo Risco,Perfil C,2025-05-24
+147,147,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+148,148,Atenção,Baixo Risco,Perfil B,2025-05-24
+149,149,Atenção,Baixo Risco,Perfil C,2025-05-24
+150,150,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+151,151,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+152,152,Atenção,Baixo Risco,Perfil C,2025-05-24
+153,153,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+154,154,Atenção,Baixo Risco,Perfil C,2025-05-24
+155,155,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+156,156,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+157,157,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+158,158,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+159,159,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+160,160,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+161,161,Atenção,Baixo Risco,Perfil A,2025-05-24
+162,162,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+163,163,Atenção,Baixo Risco,Perfil A,2025-05-24
+164,164,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+165,165,Atenção,Baixo Risco,Perfil B,2025-05-24
+166,166,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+167,167,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+168,168,Atenção,Baixo Risco,Perfil A,2025-05-24
+169,169,Atenção,Baixo Risco,Perfil A,2025-05-24
+170,170,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+171,171,Atenção,Baixo Risco,Perfil B,2025-05-24
+172,172,Atenção,Baixo Risco,Perfil A,2025-05-24
+173,173,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+174,174,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+175,175,Atenção,Baixo Risco,Perfil A,2025-05-24
+176,176,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+177,177,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+178,178,Atenção,Baixo Risco,Perfil B,2025-05-24
+179,179,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+180,180,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+181,181,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+182,182,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+183,183,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+184,184,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+185,185,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+186,186,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+187,187,Atenção,Baixo Risco,Perfil A,2025-05-24
+188,188,Atenção,Baixo Risco,Perfil A,2025-05-24
+189,189,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+190,190,Atenção,Baixo Risco,Perfil B,2025-05-24
+191,191,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+192,192,Atenção,Baixo Risco,Perfil A,2025-05-24
+193,193,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+194,194,Atenção,Baixo Risco,Perfil A,2025-05-24
+195,195,Atenção,Baixo Risco,Perfil A,2025-05-24
+196,196,Atenção,Baixo Risco,Perfil A,2025-05-24
+197,197,Atenção,Baixo Risco,Perfil B,2025-05-24
+198,198,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+199,199,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+200,200,Atenção,Baixo Risco,Perfil C,2025-05-24
+201,201,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+202,202,Atenção,Baixo Risco,Perfil A,2025-05-24
+203,203,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+204,204,Atenção,Baixo Risco,Perfil A,2025-05-24
+205,205,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+206,206,Atenção,Baixo Risco,Perfil C,2025-05-24
+207,207,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+208,208,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+209,209,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+210,210,Atenção,Baixo Risco,Perfil B,2025-05-24
+211,211,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+212,212,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+213,213,Atenção,Baixo Risco,Perfil C,2025-05-24
+214,214,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+215,215,Atenção,Baixo Risco,Perfil B,2025-05-24
+216,216,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+217,217,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+218,218,Atenção,Baixo Risco,Perfil A,2025-05-24
+219,219,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+220,220,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+221,221,Atenção,Baixo Risco,Perfil B,2025-05-24
+222,222,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+223,223,Atenção,Baixo Risco,Perfil A,2025-05-24
+224,224,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+225,225,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+226,226,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+227,227,Atenção,Baixo Risco,Perfil C,2025-05-24
+228,228,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+229,229,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+230,230,Atenção,Baixo Risco,Perfil A,2025-05-24
+231,231,Atenção,Baixo Risco,Perfil B,2025-05-24
+232,232,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+233,233,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+234,234,Atenção,Baixo Risco,Perfil A,2025-05-24
+235,235,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+236,236,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+237,237,Atenção,Baixo Risco,Perfil B,2025-05-24
+238,238,Atenção,Baixo Risco,Perfil C,2025-05-24
+239,239,Atenção,Baixo Risco,Perfil B,2025-05-24
+240,240,Atenção,Baixo Risco,Perfil C,2025-05-24
+241,241,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+242,242,Atenção,Baixo Risco,Perfil C,2025-05-24
+243,243,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+244,244,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+245,245,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+246,246,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+247,247,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+248,248,Atenção,Baixo Risco,Perfil A,2025-05-24
+249,249,Atenção,Baixo Risco,Perfil A,2025-05-24
+250,250,Atenção,Baixo Risco,Perfil B,2025-05-24
+251,251,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+252,252,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+253,253,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+254,254,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+255,255,Atenção,Baixo Risco,Perfil B,2025-05-24
+256,256,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+257,257,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+258,258,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+259,259,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+260,260,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+261,261,Atenção,Baixo Risco,Perfil C,2025-05-24
+262,262,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+263,263,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+264,264,Atenção,Baixo Risco,Perfil C,2025-05-24
+265,265,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+266,266,Atenção,Baixo Risco,Perfil A,2025-05-24
+267,267,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+268,268,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+269,269,Atenção,Baixo Risco,Perfil B,2025-05-24
+270,270,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+271,271,Atenção,Baixo Risco,Perfil C,2025-05-24
+272,272,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+273,273,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+274,274,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+275,275,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+276,276,Atenção,Baixo Risco,Perfil C,2025-05-24
+277,277,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+278,278,Atenção,Baixo Risco,Perfil A,2025-05-24
+279,279,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+280,280,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+281,281,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+282,282,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+283,283,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+284,284,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+285,285,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+286,286,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+287,287,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+288,288,Atenção,Baixo Risco,Perfil C,2025-05-24
+289,289,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+290,290,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+291,291,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+292,292,Atenção,Baixo Risco,Perfil B,2025-05-24
+293,293,Atenção,Baixo Risco,Perfil B,2025-05-24
+294,294,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+295,295,Atenção,Baixo Risco,Perfil B,2025-05-24
+296,296,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+297,297,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+298,298,Atenção,Baixo Risco,Perfil A,2025-05-24
+299,299,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+300,300,Atenção,Baixo Risco,Perfil A,2025-05-24
+301,301,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+302,302,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+303,303,Atenção,Baixo Risco,Perfil A,2025-05-24
+304,304,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+305,305,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+306,306,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+307,307,Atenção,Baixo Risco,Perfil B,2025-05-24
+308,308,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+309,309,Atenção,Baixo Risco,Perfil B,2025-05-24
+310,310,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+311,311,Atenção,Baixo Risco,Perfil B,2025-05-24
+312,312,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+313,313,Atenção,Baixo Risco,Perfil C,2025-05-24
+314,314,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+315,315,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+316,316,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+317,317,Regular,Nenhum,Perfil B,2025-05-24
+318,318,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+319,319,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+320,320,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+321,321,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+322,322,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+323,323,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+324,324,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+325,325,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+326,326,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+327,327,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+328,328,Atenção,Baixo Risco,Perfil A,2025-05-24
+329,329,Atenção,Baixo Risco,Perfil C,2025-05-24
+330,330,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+331,331,Atenção,Baixo Risco,Perfil A,2025-05-24
+332,332,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+333,333,Atenção,Baixo Risco,Perfil B,2025-05-24
+334,334,Atenção,Baixo Risco,Perfil B,2025-05-24
+335,335,Atenção,Baixo Risco,Perfil B,2025-05-24
+336,336,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+337,337,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+338,338,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+339,339,Atenção,Baixo Risco,Perfil B,2025-05-24
+340,340,Atenção,Baixo Risco,Perfil B,2025-05-24
+341,341,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+342,342,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+343,343,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+344,344,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+345,345,Atenção,Baixo Risco,Perfil C,2025-05-24
+346,346,Atenção,Baixo Risco,Perfil A,2025-05-24
+347,347,Atenção,Baixo Risco,Perfil B,2025-05-24
+348,348,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+349,349,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+350,350,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+351,351,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+352,352,Atenção,Baixo Risco,Perfil A,2025-05-24
+353,353,Atenção,Baixo Risco,Perfil B,2025-05-24
+354,354,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+355,355,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+356,356,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+357,357,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+358,358,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+359,359,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+360,360,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+361,361,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+362,362,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+363,363,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+364,364,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+365,365,Atenção,Baixo Risco,Perfil A,2025-05-24
+366,366,Atenção,Baixo Risco,Perfil B,2025-05-24
+367,367,Atenção,Baixo Risco,Perfil C,2025-05-24
+368,368,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+369,369,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+370,370,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+371,371,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+372,372,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+373,373,Atenção,Baixo Risco,Perfil A,2025-05-24
+374,374,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+375,375,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+376,376,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+377,377,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+378,378,Atenção,Baixo Risco,Perfil B,2025-05-24
+379,379,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+380,380,Atenção,Baixo Risco,Perfil A,2025-05-24
+381,381,Atenção,Baixo Risco,Perfil B,2025-05-24
+382,382,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+383,383,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+384,384,Atenção,Baixo Risco,Perfil C,2025-05-24
+385,385,Atenção,Baixo Risco,Perfil A,2025-05-24
+386,386,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+387,387,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+388,388,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+389,389,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+390,390,Atenção,Baixo Risco,Perfil C,2025-05-24
+391,391,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+392,392,Atenção,Baixo Risco,Perfil C,2025-05-24
+393,393,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+394,394,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+395,395,Atenção,Baixo Risco,Perfil A,2025-05-24
+396,396,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+397,397,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+398,398,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+399,399,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+400,400,Atenção,Baixo Risco,Perfil A,2025-05-24
+401,401,Atenção,Baixo Risco,Perfil C,2025-05-24
+402,402,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+403,403,Atenção,Baixo Risco,Perfil C,2025-05-24
+404,404,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+405,405,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+406,406,Atenção,Baixo Risco,Perfil A,2025-05-24
+407,407,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+408,408,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+409,409,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+410,410,Atenção,Baixo Risco,Perfil B,2025-05-24
+411,411,Atenção,Baixo Risco,Perfil C,2025-05-24
+412,412,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+413,413,Atenção,Baixo Risco,Perfil A,2025-05-24
+414,414,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+415,415,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+416,416,Atenção,Baixo Risco,Perfil B,2025-05-24
+417,417,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+418,418,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+419,419,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+420,420,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+421,421,Atenção,Baixo Risco,Perfil C,2025-05-24
+422,422,Atenção,Baixo Risco,Perfil C,2025-05-24
+423,423,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+424,424,Atenção,Baixo Risco,Perfil C,2025-05-24
+425,425,Atenção,Baixo Risco,Perfil B,2025-05-24
+426,426,Atenção,Baixo Risco,Perfil B,2025-05-24
+427,427,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+428,428,Atenção,Baixo Risco,Perfil C,2025-05-24
+429,429,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+430,430,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+431,431,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+432,432,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+433,433,Atenção,Baixo Risco,Perfil B,2025-05-24
+434,434,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+435,435,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+436,436,Atenção,Baixo Risco,Perfil C,2025-05-24
+437,437,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+438,438,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+439,439,Atenção,Baixo Risco,Perfil C,2025-05-24
+440,440,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+441,441,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+442,442,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+443,443,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+444,444,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+445,445,Atenção,Baixo Risco,Perfil B,2025-05-24
+446,446,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+447,447,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+448,448,Atenção,Baixo Risco,Perfil C,2025-05-24
+449,449,Atenção,Baixo Risco,Perfil A,2025-05-24
+450,450,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+451,451,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+452,452,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+453,453,Atenção,Baixo Risco,Perfil C,2025-05-24
+454,454,Atenção,Baixo Risco,Perfil B,2025-05-24
+455,455,Atenção,Baixo Risco,Perfil C,2025-05-24
+456,456,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+457,457,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+458,458,Atenção,Baixo Risco,Perfil A,2025-05-24
+459,459,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+460,460,Atenção,Baixo Risco,Perfil A,2025-05-24
+461,461,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+462,462,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+463,463,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+464,464,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+465,465,Atenção,Baixo Risco,Perfil A,2025-05-24
+466,466,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+467,467,Atenção,Baixo Risco,Perfil B,2025-05-24
+468,468,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+469,469,Atenção,Baixo Risco,Perfil A,2025-05-24
+470,470,Atenção,Baixo Risco,Perfil B,2025-05-24
+471,471,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+472,472,Atenção,Baixo Risco,Perfil A,2025-05-24
+473,473,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+474,474,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+475,475,Atenção,Baixo Risco,Perfil B,2025-05-24
+476,476,Atenção,Baixo Risco,Perfil A,2025-05-24
+477,477,Atenção,Baixo Risco,Perfil A,2025-05-24
+478,478,Atenção,Baixo Risco,Perfil C,2025-05-24
+479,479,Atenção,Baixo Risco,Perfil B,2025-05-24
+480,480,Atenção,Baixo Risco,Perfil B,2025-05-24
+481,481,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+482,482,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+483,483,Atenção,Baixo Risco,Perfil C,2025-05-24
+484,484,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+485,485,Atenção,Baixo Risco,Perfil C,2025-05-24
+486,486,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+487,487,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+488,488,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+489,489,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+490,490,Atenção,Baixo Risco,Perfil B,2025-05-24
+491,491,Atenção,Baixo Risco,Perfil B,2025-05-24
+492,492,Atenção,Baixo Risco,Perfil A,2025-05-24
+493,493,Atenção,Baixo Risco,Perfil C,2025-05-24
+494,494,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+495,495,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+496,496,Atenção,Baixo Risco,Perfil A,2025-05-24
+497,497,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+498,498,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+499,499,Atenção,Baixo Risco,Perfil C,2025-05-24
+500,500,Atenção,Baixo Risco,Perfil A,2025-05-24
+501,501,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+502,502,Atenção,Baixo Risco,Perfil A,2025-05-24
+503,503,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+504,504,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+505,505,Atenção,Baixo Risco,Perfil C,2025-05-24
+506,506,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+507,507,Atenção,Baixo Risco,Perfil A,2025-05-24
+508,508,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+509,509,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+510,510,Atenção,Baixo Risco,Perfil B,2025-05-24
+511,511,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+512,512,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+513,513,Atenção,Baixo Risco,Perfil B,2025-05-24
+514,514,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+515,515,Atenção,Baixo Risco,Perfil A,2025-05-24
+516,516,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+517,517,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+518,518,Atenção,Baixo Risco,Perfil C,2025-05-24
+519,519,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+520,520,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+521,521,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+522,522,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+523,523,Atenção,Baixo Risco,Perfil A,2025-05-24
+524,524,Atenção,Baixo Risco,Perfil C,2025-05-24
+525,525,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+526,526,Atenção,Baixo Risco,Perfil C,2025-05-24
+527,527,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+528,528,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+529,529,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+530,530,Atenção,Baixo Risco,Perfil C,2025-05-24
+531,531,Atenção,Baixo Risco,Perfil B,2025-05-24
+532,532,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+533,533,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+534,534,Atenção,Baixo Risco,Perfil A,2025-05-24
+535,535,Atenção,Baixo Risco,Perfil C,2025-05-24
+536,536,Atenção,Baixo Risco,Perfil C,2025-05-24
+537,537,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+538,538,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+539,539,Atenção,Baixo Risco,Perfil A,2025-05-24
+540,540,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+541,541,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+542,542,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+543,543,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+544,544,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+545,545,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+546,546,Atenção,Baixo Risco,Perfil B,2025-05-24
+547,547,Atenção,Baixo Risco,Perfil C,2025-05-24
+548,548,Atenção,Baixo Risco,Perfil B,2025-05-24
+549,549,Atenção,Baixo Risco,Perfil B,2025-05-24
+550,550,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+551,551,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+552,552,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+553,553,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+554,554,Atenção,Baixo Risco,Perfil C,2025-05-24
+555,555,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+556,556,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+557,557,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+558,558,Atenção,Baixo Risco,Perfil B,2025-05-24
+559,559,Atenção,Baixo Risco,Perfil A,2025-05-24
+560,560,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+561,561,Atenção,Baixo Risco,Perfil C,2025-05-24
+562,562,Atenção,Baixo Risco,Perfil A,2025-05-24
+563,563,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+564,564,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+565,565,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+566,566,Atenção,Baixo Risco,Perfil A,2025-05-24
+567,567,Atenção,Baixo Risco,Perfil C,2025-05-24
+568,568,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+569,569,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+570,570,Atenção,Baixo Risco,Perfil C,2025-05-24
+571,571,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+572,572,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+573,573,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+574,574,Atenção,Baixo Risco,Perfil C,2025-05-24
+575,575,Atenção,Baixo Risco,Perfil A,2025-05-24
+576,576,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+577,577,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+578,578,Atenção,Baixo Risco,Perfil A,2025-05-24
+579,579,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+580,580,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+581,581,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+582,582,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+583,583,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+584,584,Atenção,Baixo Risco,Perfil C,2025-05-24
+585,585,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+586,586,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+587,587,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+588,588,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+589,589,Atenção,Baixo Risco,Perfil A,2025-05-24
+590,590,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+591,591,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+592,592,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+593,593,Atenção,Baixo Risco,Perfil C,2025-05-24
+594,594,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+595,595,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+596,596,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+597,597,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+598,598,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+599,599,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+600,600,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+601,601,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+602,602,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+603,603,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+604,604,Atenção,Baixo Risco,Perfil C,2025-05-24
+605,605,Atenção,Baixo Risco,Perfil C,2025-05-24
+606,606,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+607,607,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+608,608,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+609,609,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+610,610,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+611,611,Atenção,Baixo Risco,Perfil C,2025-05-24
+612,612,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+613,613,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+614,614,Atenção,Baixo Risco,Perfil A,2025-05-24
+615,615,Atenção,Baixo Risco,Perfil A,2025-05-24
+616,616,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+617,617,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+618,618,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+619,619,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+620,620,Atenção,Baixo Risco,Perfil B,2025-05-24
+621,621,Atenção,Baixo Risco,Perfil A,2025-05-24
+622,622,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+623,623,Atenção,Baixo Risco,Perfil B,2025-05-24
+624,624,Atenção,Baixo Risco,Perfil C,2025-05-24
+625,625,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+626,626,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+627,627,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+628,628,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+629,629,Atenção,Baixo Risco,Perfil C,2025-05-24
+630,630,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+631,631,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+632,632,Atenção,Baixo Risco,Perfil C,2025-05-24
+633,633,Atenção,Baixo Risco,Perfil C,2025-05-24
+634,634,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+635,635,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+636,636,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+637,637,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+638,638,Atenção,Baixo Risco,Perfil A,2025-05-24
+639,639,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+640,640,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+641,641,Atenção,Baixo Risco,Perfil C,2025-05-24
+642,642,Atenção,Baixo Risco,Perfil A,2025-05-24
+643,643,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+644,644,Atenção,Baixo Risco,Perfil B,2025-05-24
+645,645,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+646,646,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+647,647,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+648,648,Atenção,Baixo Risco,Perfil C,2025-05-24
+649,649,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+650,650,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+651,651,Atenção,Baixo Risco,Perfil A,2025-05-24
+652,652,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+653,653,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+654,654,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+655,655,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+656,656,Atenção,Baixo Risco,Perfil C,2025-05-24
+657,657,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+658,658,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+659,659,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+660,660,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+661,661,Atenção,Baixo Risco,Perfil B,2025-05-24
+662,662,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+663,663,Atenção,Baixo Risco,Perfil B,2025-05-24
+664,664,Atenção,Baixo Risco,Perfil A,2025-05-24
+665,665,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+666,666,Atenção,Baixo Risco,Perfil B,2025-05-24
+667,667,Atenção,Baixo Risco,Perfil B,2025-05-24
+668,668,Atenção,Baixo Risco,Perfil B,2025-05-24
+669,669,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+670,670,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+671,671,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+672,672,Atenção,Baixo Risco,Perfil A,2025-05-24
+673,673,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+674,674,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+675,675,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+676,676,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+677,677,Atenção,Baixo Risco,Perfil A,2025-05-24
+678,678,Atenção,Baixo Risco,Perfil C,2025-05-24
+679,679,Atenção,Baixo Risco,Perfil C,2025-05-24
+680,680,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+681,681,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+682,682,Atenção,Baixo Risco,Perfil C,2025-05-24
+683,683,Atenção,Baixo Risco,Perfil B,2025-05-24
+684,684,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+685,685,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+686,686,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+687,687,Atenção,Baixo Risco,Perfil A,2025-05-24
+688,688,Atenção,Baixo Risco,Perfil A,2025-05-24
+689,689,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+690,690,Atenção,Baixo Risco,Perfil B,2025-05-24
+691,691,Atenção,Baixo Risco,Perfil B,2025-05-24
+692,692,Atenção,Baixo Risco,Perfil A,2025-05-24
+693,693,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+694,694,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+695,695,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+696,696,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+697,697,Atenção,Baixo Risco,Perfil A,2025-05-24
+698,698,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+699,699,Atenção,Baixo Risco,Perfil C,2025-05-24
+700,700,Atenção,Baixo Risco,Perfil B,2025-05-24
+701,701,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+702,702,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+703,703,Atenção,Baixo Risco,Perfil B,2025-05-24
+704,704,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+705,705,Atenção,Baixo Risco,Perfil B,2025-05-24
+706,706,Atenção,Baixo Risco,Perfil C,2025-05-24
+707,707,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+708,708,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+709,709,Atenção,Baixo Risco,Perfil B,2025-05-24
+710,710,Atenção,Baixo Risco,Perfil C,2025-05-24
+711,711,Atenção,Baixo Risco,Perfil C,2025-05-24
+712,712,Atenção,Baixo Risco,Perfil B,2025-05-24
+713,713,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+714,714,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+715,715,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+716,716,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+717,717,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+718,718,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+719,719,Atenção,Baixo Risco,Perfil B,2025-05-24
+720,720,Atenção,Baixo Risco,Perfil C,2025-05-24
+721,721,Atenção,Baixo Risco,Perfil C,2025-05-24
+722,722,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+723,723,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+724,724,Atenção,Baixo Risco,Perfil A,2025-05-24
+725,725,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+726,726,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+727,727,Atenção,Baixo Risco,Perfil C,2025-05-24
+728,728,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+729,729,Atenção,Baixo Risco,Perfil A,2025-05-24
+730,730,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+731,731,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+732,732,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+733,733,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+734,734,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+735,735,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+736,736,Atenção,Baixo Risco,Perfil B,2025-05-24
+737,737,Atenção,Baixo Risco,Perfil C,2025-05-24
+738,738,Atenção,Baixo Risco,Perfil B,2025-05-24
+739,739,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+740,740,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+741,741,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+742,742,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+743,743,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+744,744,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+745,745,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+746,746,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+747,747,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+748,748,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+749,749,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+750,750,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+751,751,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+752,752,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+753,753,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+754,754,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+755,755,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+756,756,Atenção,Baixo Risco,Perfil C,2025-05-24
+757,757,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+758,758,Atenção,Baixo Risco,Perfil C,2025-05-24
+759,759,Atenção,Baixo Risco,Perfil A,2025-05-24
+760,760,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+761,761,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+762,762,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+763,763,Atenção,Baixo Risco,Perfil C,2025-05-24
+764,764,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+765,765,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+766,766,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+767,767,Atenção,Baixo Risco,Perfil C,2025-05-24
+768,768,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+769,769,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+770,770,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+771,771,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+772,772,Atenção,Baixo Risco,Perfil C,2025-05-24
+773,773,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+774,774,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+775,775,Atenção,Baixo Risco,Perfil A,2025-05-24
+776,776,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+777,777,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+778,778,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+779,779,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+780,780,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+781,781,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+782,782,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+783,783,Atenção,Baixo Risco,Perfil A,2025-05-24
+784,784,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+785,785,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+786,786,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+787,787,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+788,788,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+789,789,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+790,790,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+791,791,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+792,792,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+793,793,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+794,794,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+795,795,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+796,796,Atenção,Baixo Risco,Perfil C,2025-05-24
+797,797,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+798,798,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+799,799,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+800,800,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+801,801,Atenção,Baixo Risco,Perfil A,2025-05-24
+802,802,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+803,803,Atenção,Baixo Risco,Perfil A,2025-05-24
+804,804,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+805,805,Atenção,Baixo Risco,Perfil B,2025-05-24
+806,806,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+807,807,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+808,808,Atenção,Baixo Risco,Perfil A,2025-05-24
+809,809,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+810,810,Atenção,Baixo Risco,Perfil C,2025-05-24
+811,811,Atenção,Baixo Risco,Perfil B,2025-05-24
+812,812,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+813,813,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+814,814,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+815,815,Atenção,Baixo Risco,Perfil B,2025-05-24
+816,816,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+817,817,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+818,818,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+819,819,Atenção,Baixo Risco,Perfil B,2025-05-24
+820,820,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+821,821,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+822,822,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+823,823,Atenção,Baixo Risco,Perfil B,2025-05-24
+824,824,Atenção,Baixo Risco,Perfil B,2025-05-24
+825,825,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+826,826,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+827,827,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+828,828,Atenção,Baixo Risco,Perfil B,2025-05-24
+829,829,Atenção,Baixo Risco,Perfil A,2025-05-24
+830,830,Atenção,Baixo Risco,Perfil B,2025-05-24
+831,831,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+832,832,Atenção,Baixo Risco,Perfil C,2025-05-24
+833,833,Atenção,Baixo Risco,Perfil A,2025-05-24
+834,834,Atenção,Baixo Risco,Perfil A,2025-05-24
+835,835,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+836,836,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+837,837,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+838,838,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+839,839,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+840,840,Atenção,Baixo Risco,Perfil B,2025-05-24
+841,841,Atenção,Baixo Risco,Perfil A,2025-05-24
+842,842,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+843,843,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+844,844,Atenção,Baixo Risco,Perfil C,2025-05-24
+845,845,Atenção,Baixo Risco,Perfil B,2025-05-24
+846,846,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+847,847,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+848,848,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+849,849,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+850,850,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+851,851,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+852,852,Atenção,Baixo Risco,Perfil C,2025-05-24
+853,853,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+854,854,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+855,855,Atenção,Baixo Risco,Perfil A,2025-05-24
+856,856,Atenção,Baixo Risco,Perfil C,2025-05-24
+857,857,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+858,858,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+859,859,Atenção,Baixo Risco,Perfil C,2025-05-24
+860,860,Atenção,Baixo Risco,Perfil A,2025-05-24
+861,861,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+862,862,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+863,863,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+864,864,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+865,865,Atenção,Baixo Risco,Perfil B,2025-05-24
+866,866,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+867,867,Atenção,Baixo Risco,Perfil C,2025-05-24
+868,868,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+869,869,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+870,870,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+871,871,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+872,872,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+873,873,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+874,874,Atenção,Baixo Risco,Perfil A,2025-05-24
+875,875,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+876,876,Atenção,Baixo Risco,Perfil B,2025-05-24
+877,877,Atenção,Baixo Risco,Perfil B,2025-05-24
+878,878,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+879,879,Atenção,Baixo Risco,Perfil C,2025-05-24
+880,880,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+881,881,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+882,882,Atenção,Baixo Risco,Perfil C,2025-05-24
+883,883,Atenção,Baixo Risco,Perfil A,2025-05-24
+884,884,Atenção,Baixo Risco,Perfil C,2025-05-24
+885,885,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+886,886,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+887,887,Atenção,Baixo Risco,Perfil B,2025-05-24
+888,888,Atenção,Baixo Risco,Perfil C,2025-05-24
+889,889,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+890,890,Atenção,Baixo Risco,Perfil A,2025-05-24
+891,891,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+892,892,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+893,893,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+894,894,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+895,895,Atenção,Baixo Risco,Perfil B,2025-05-24
+896,896,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+897,897,Atenção,Baixo Risco,Perfil A,2025-05-24
+898,898,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+899,899,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+900,900,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+901,901,Atenção,Baixo Risco,Perfil A,2025-05-24
+902,902,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+903,903,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+904,904,Atenção,Baixo Risco,Perfil C,2025-05-24
+905,905,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+906,906,Atenção,Baixo Risco,Perfil A,2025-05-24
+907,907,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+908,908,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+909,909,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+910,910,Atenção,Baixo Risco,Perfil B,2025-05-24
+911,911,Atenção,Baixo Risco,Perfil C,2025-05-24
+912,912,Atenção,Baixo Risco,Perfil B,2025-05-24
+913,913,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+914,914,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+915,915,Atenção,Baixo Risco,Perfil A,2025-05-24
+916,916,Atenção,Baixo Risco,Perfil C,2025-05-24
+917,917,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+918,918,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+919,919,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+920,920,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+921,921,Defasagem Crítica,Alto Risco,Perfil A,2025-05-24
+922,922,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+923,923,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+924,924,Atenção,Baixo Risco,Perfil A,2025-05-24
+925,925,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+926,926,Atenção,Baixo Risco,Perfil C,2025-05-24
+927,927,Atenção,Baixo Risco,Perfil C,2025-05-24
+928,928,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+929,929,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+930,930,Atenção,Baixo Risco,Perfil C,2025-05-24
+931,931,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+932,932,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+933,933,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+934,934,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+935,935,Atenção,Baixo Risco,Perfil C,2025-05-24
+936,936,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+937,937,Atenção,Baixo Risco,Perfil A,2025-05-24
+938,938,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+939,939,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+940,940,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+941,941,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+942,942,Atenção,Baixo Risco,Perfil B,2025-05-24
+943,943,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+944,944,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+945,945,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+946,946,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+947,947,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+948,948,Atenção,Baixo Risco,Perfil B,2025-05-24
+949,949,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+950,950,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+951,951,Atenção,Baixo Risco,Perfil C,2025-05-24
+952,952,Atenção,Baixo Risco,Perfil A,2025-05-24
+953,953,Atenção,Baixo Risco,Perfil B,2025-05-24
+954,954,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+955,955,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+956,956,Atenção,Baixo Risco,Perfil A,2025-05-24
+957,957,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+958,958,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+959,959,Atenção,Baixo Risco,Perfil A,2025-05-24
+960,960,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+961,961,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+962,962,Atenção,Baixo Risco,Perfil B,2025-05-24
+963,963,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+964,964,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+965,965,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+966,966,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+967,967,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+968,968,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+969,969,Atenção,Baixo Risco,Perfil C,2025-05-24
+970,970,Atenção,Baixo Risco,Perfil A,2025-05-24
+971,971,Atenção,Baixo Risco,Perfil C,2025-05-24
+972,972,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+973,973,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+974,974,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+975,975,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+976,976,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+977,977,Atenção,Baixo Risco,Perfil A,2025-05-24
+978,978,Defasagem Crítica,Alto Risco,Perfil B,2025-05-24
+979,979,Atenção,Baixo Risco,Perfil B,2025-05-24
+980,980,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+981,981,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+982,982,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+983,983,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+984,984,Defasagem Moderada,Risco Moderado,Perfil C,2025-05-24
+985,985,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+986,986,Atenção,Baixo Risco,Perfil A,2025-05-24
+987,987,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+988,988,Atenção,Baixo Risco,Perfil B,2025-05-24
+989,989,Atenção,Baixo Risco,Perfil A,2025-05-24
+990,990,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+991,991,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+992,992,Atenção,Baixo Risco,Perfil C,2025-05-24
+993,993,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+994,994,Defasagem Crítica,Alto Risco,Perfil C,2025-05-24
+995,995,Atenção,Baixo Risco,Perfil B,2025-05-24
+996,996,Defasagem Moderada,Risco Moderado,Perfil A,2025-05-24
+997,997,Atenção,Baixo Risco,Perfil A,2025-05-24
+998,998,Atenção,Baixo Risco,Perfil C,2025-05-24
+999,999,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24
+1000,1000,Defasagem Moderada,Risco Moderado,Perfil B,2025-05-24

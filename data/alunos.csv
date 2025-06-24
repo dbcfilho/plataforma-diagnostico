@@ -1,0 +1,1001 @@
+aluno_id,nome,idade,sexo,serie,escola_id,turma_id,fator_socioeconomico
+1,José Miguel da Mota,11,Masculino,7,1,1,Médio-Baixo
+2,Laura Macedo,12,Feminino,7,1,1,Médio
+3,Isabelly Vasconcelos,13,Feminino,7,1,1,Médio
+4,Francisco Duarte,11,Masculino,7,1,1,Baixo
+5,Henry Ribeiro,13,Masculino,7,1,1,Baixo
+6,Dr. Fernando Brito,13,Masculino,7,1,1,Baixo
+7,Fernanda Viana,11,Feminino,7,1,1,Baixo
+8,Sophie Lopes,13,Feminino,7,1,1,Médio-Alto
+9,Mirella Andrade,13,Feminino,7,1,1,Médio
+10,Ian Dias,13,Masculino,7,1,1,Médio
+11,Sr. Davi Luiz Siqueira,11,Masculino,7,1,1,Médio-Alto
+12,Lucas Correia,12,Masculino,7,1,1,Médio
+13,Caroline Cavalcante,11,Feminino,7,1,1,Médio-Alto
+14,Dr. Vinicius Abreu,12,Masculino,7,1,1,Baixo
+15,Matheus Carvalho,12,Masculino,7,1,1,Médio-Baixo
+16,Manuella Araújo,13,Feminino,7,1,1,Médio-Alto
+17,Pietro Costa,13,Masculino,7,1,1,Médio-Baixo
+18,Isaac Novais,13,Masculino,7,1,1,Baixo
+19,Rebeca Sales,12,Feminino,7,1,1,Médio-Baixo
+20,Cecilia Sales,11,Feminino,7,1,1,Médio-Baixo
+21,Ana Câmara,10,Feminino,6,1,2,Médio-Alto
+22,Sra. Maria Helena Aragão,11,Feminino,6,1,2,Médio
+23,Ester Silveira,10,Feminino,6,1,2,Médio
+24,Srta. Mirella Montenegro,10,Feminino,6,1,2,Médio-Alto
+25,Caio Albuquerque,12,Masculino,6,1,2,Baixo
+26,Melissa Pimenta,12,Feminino,6,1,2,Baixo
+27,Emilly Barbosa,11,Feminino,6,1,2,Médio-Alto
+28,Sr. Diogo Cassiano,12,Masculino,6,1,2,Baixo
+29,André Lopes,11,Masculino,6,1,2,Baixo
+30,João Miguel Melo,11,Masculino,6,1,2,Médio-Alto
+31,Giovanna Leão,10,Feminino,6,1,2,Médio-Alto
+32,Asafe Monteiro,11,Masculino,6,1,2,Médio-Baixo
+33,João Felipe Almeida,10,Masculino,6,1,2,Médio-Alto
+34,Luiz Henrique Vieira,12,Masculino,6,1,2,Baixo
+35,Gabriel Rios,12,Masculino,6,1,2,Médio-Baixo
+36,Dra. Hadassa Carvalho,11,Feminino,6,1,2,Médio-Alto
+37,Ravi Lucca Sousa,12,Masculino,6,1,2,Médio-Baixo
+38,Sra. Alexia da Conceição,10,Feminino,6,1,2,Médio-Alto
+39,Sophia Mendonça,12,Feminino,6,1,2,Médio-Alto
+40,Luísa Nunes,12,Feminino,6,1,2,Médio-Alto
+41,Srta. Allana Castro,15,Feminino,9,1,3,Médio
+42,Gabrielly Correia,15,Feminino,9,1,3,Médio-Baixo
+43,Ana Vitória Câmara,15,Feminino,9,1,3,Médio-Alto
+44,Rael Fonseca,14,Masculino,9,1,3,Baixo
+45,Gustavo Cardoso,13,Masculino,9,1,3,Médio
+46,Enrico Cirino,15,Masculino,9,1,3,Baixo
+47,Sr. João Felipe Viana,15,Masculino,9,1,3,Baixo
+48,Josué Pimenta,14,Masculino,9,1,3,Médio
+49,Srta. Sabrina Alves,15,Feminino,9,1,3,Baixo
+50,Srta. Luna Rocha,14,Feminino,9,1,3,Médio-Alto
+51,Nicole Barbosa,14,Feminino,9,1,3,Baixo
+52,Ana Cecília Lopes,13,Feminino,9,1,3,Médio-Alto
+53,Arthur Miguel Fogaça,15,Masculino,9,1,3,Médio-Baixo
+54,Kevin Ribeiro,14,Masculino,9,1,3,Médio-Baixo
+55,Benjamim da Rosa,15,Masculino,9,1,3,Médio
+56,Emilly Leão,15,Feminino,9,1,3,Médio-Baixo
+57,Dr. Ravi Dias,13,Masculino,9,1,3,Baixo
+58,Olivia Melo,13,Feminino,9,1,3,Baixo
+59,Cauê Nascimento,15,Masculino,9,1,3,Médio
+60,Maysa Cavalcante,14,Feminino,9,1,3,Baixo
+61,Rebeca Cassiano,15,Feminino,9,1,4,Médio
+62,Ravi Marques,15,Masculino,9,1,4,Médio
+63,Ian Brito,14,Masculino,9,1,4,Médio-Alto
+64,Dom Albuquerque,13,Masculino,9,1,4,Médio
+65,Bento da Luz,14,Masculino,9,1,4,Médio-Alto
+66,Matheus Viana,15,Masculino,9,1,4,Médio-Baixo
+67,Pietro Leão,13,Masculino,9,1,4,Médio-Baixo
+68,Srta. Aurora Câmara,13,Feminino,9,1,4,Médio
+69,André Moreira,14,Masculino,9,1,4,Médio-Baixo
+70,Dr. Juan Melo,14,Masculino,9,1,4,Médio-Baixo
+71,Davi da Rocha,15,Masculino,9,1,4,Médio-Baixo
+72,Manuella da Paz,15,Feminino,9,1,4,Médio
+73,Maria Clara Cassiano,14,Feminino,9,1,4,Médio
+74,Breno Vasconcelos,15,Masculino,9,1,4,Baixo
+75,Dr. Caio Fonseca,14,Masculino,9,1,4,Médio
+76,Ana Carolina Sampaio,14,Feminino,9,1,4,Baixo
+77,Stella da Conceição,14,Feminino,9,1,4,Médio-Alto
+78,Luigi Fernandes,13,Masculino,9,1,4,Médio-Baixo
+79,Gabrielly Marques,14,Feminino,9,1,4,Médio-Alto
+80,Augusto Sampaio,14,Masculino,9,1,4,Baixo
+81,Ana Julia Sampaio,11,Feminino,7,1,5,Médio-Alto
+82,Maria Júlia Casa Grande,13,Feminino,7,1,5,Médio-Alto
+83,Enzo Souza,11,Masculino,7,1,5,Médio
+84,Noah Castro,13,Masculino,7,1,5,Médio
+85,Srta. Hellena da Luz,13,Feminino,7,1,5,Médio
+86,Dr. Dante Costela,12,Masculino,7,1,5,Médio-Baixo
+87,Dra. Ísis Oliveira,13,Feminino,7,1,5,Médio-Baixo
+88,Pedro Lucas Macedo,12,Masculino,7,1,5,Médio-Baixo
+89,Hadassa Cirino,13,Feminino,7,1,5,Médio-Baixo
+90,Isabela Aparecida,11,Feminino,7,1,5,Médio-Alto
+91,Dra. Ísis Sampaio,11,Feminino,7,1,5,Baixo
+92,Yasmin da Rosa,12,Feminino,7,1,5,Médio-Baixo
+93,Vitória Campos,12,Feminino,7,1,5,Médio-Baixo
+94,Melina Leão,13,Feminino,7,1,5,Médio-Alto
+95,Sr. Henry Gabriel Macedo,13,Masculino,7,1,5,Médio-Alto
+96,Arthur Miguel Leão,12,Masculino,7,1,5,Baixo
+97,Clara Guerra,11,Feminino,7,1,5,Médio-Alto
+98,Ágatha Azevedo,13,Feminino,7,1,5,Baixo
+99,Dr. Vitor Gabriel Rios,13,Masculino,7,1,5,Médio
+100,Julia da Conceição,12,Feminino,7,1,5,Médio-Baixo
+101,Beatriz da Rocha,14,Feminino,9,2,6,Médio-Baixo
+102,Sra. Maria Alice Guerra,14,Feminino,9,2,6,Médio-Alto
+103,Maria Helena Martins,13,Feminino,9,2,6,Médio
+104,Lorena Andrade,14,Feminino,9,2,6,Médio-Baixo
+105,Henry Gabriel Rios,15,Masculino,9,2,6,Médio-Baixo
+106,Hadassa Costela,13,Feminino,9,2,6,Médio
+107,Melina Gomes,14,Feminino,9,2,6,Médio
+108,Dr. Vitor Gabriel Porto,14,Masculino,9,2,6,Médio-Baixo
+109,Dra. Clara Pires,13,Feminino,9,2,6,Médio-Baixo
+110,Sr. Levi Leão,13,Masculino,9,2,6,Médio-Alto
+111,Olívia Sales,13,Feminino,9,2,6,Baixo
+112,Sabrina Pastor,13,Feminino,9,2,6,Médio-Baixo
+113,Levi Moreira,15,Masculino,9,2,6,Médio
+114,Ana Luiza Barros,13,Feminino,9,2,6,Médio-Alto
+115,Gabriela Pereira,14,Feminino,9,2,6,Médio
+116,Antony Gonçalves,13,Masculino,9,2,6,Médio-Alto
+117,Sr. Henrique Barbosa,15,Masculino,9,2,6,Médio-Baixo
+118,Isaac da Luz,14,Masculino,9,2,6,Médio
+119,Paulo Melo,14,Masculino,9,2,6,Médio
+120,Sra. Juliana Barbosa,13,Feminino,9,2,6,Baixo
+121,Dra. Emilly Moraes,10,Feminino,6,2,7,Baixo
+122,Clarice Azevedo,12,Feminino,6,2,7,Médio-Alto
+123,Cecilia Moura,12,Feminino,6,2,7,Baixo
+124,Luna Borges,11,Feminino,6,2,7,Médio
+125,Maria Clara Costela,10,Feminino,6,2,7,Médio-Baixo
+126,Gustavo Pimenta,10,Masculino,6,2,7,Médio
+127,Vicente Cassiano,11,Masculino,6,2,7,Médio-Alto
+128,Isabel Santos,11,Feminino,6,2,7,Médio
+129,Maria Alice Freitas,12,Feminino,6,2,7,Médio
+130,Dante Barbosa,11,Masculino,6,2,7,Médio
+131,Sophie Pereira,10,Feminino,6,2,7,Baixo
+132,André Gonçalves,12,Masculino,6,2,7,Médio
+133,Bruno das Neves,12,Masculino,6,2,7,Baixo
+134,Dra. Maria Luiza Fernandes,11,Feminino,6,2,7,Baixo
+135,João Miguel Ramos,11,Masculino,6,2,7,Médio-Alto
+136,Benjamim Jesus,11,Masculino,6,2,7,Médio
+137,Guilherme Gonçalves,10,Masculino,6,2,7,Médio-Alto
+138,Calebe da Paz,10,Masculino,6,2,7,Baixo
+139,Srta. Ana Sophia Sousa,12,Feminino,6,2,7,Médio-Baixo
+140,Rodrigo Cardoso,10,Masculino,6,2,7,Médio-Baixo
+141,Eduarda Peixoto,12,Feminino,6,2,8,Baixo
+142,Julia Ribeiro,12,Feminino,6,2,8,Baixo
+143,Ravy da Mota,11,Masculino,6,2,8,Médio-Baixo
+144,Breno da Costa,11,Masculino,6,2,8,Baixo
+145,Dra. Ana Júlia da Paz,11,Feminino,6,2,8,Médio
+146,Luiza Gonçalves,10,Feminino,6,2,8,Médio-Alto
+147,Gustavo Pires,10,Masculino,6,2,8,Médio-Alto
+148,Yago Nascimento,11,Masculino,6,2,8,Médio-Baixo
+149,Yuri Caldeira,10,Masculino,6,2,8,Baixo
+150,Davi Lucca Peixoto,11,Masculino,6,2,8,Baixo
+151,Heloísa Gonçalves,12,Feminino,6,2,8,Médio
+152,Dra. Amanda Farias,10,Feminino,6,2,8,Médio
+153,Zoe Montenegro,11,Feminino,6,2,8,Médio-Baixo
+154,Mateus da Rosa,11,Masculino,6,2,8,Médio-Alto
+155,Vitor Rodrigues,11,Masculino,6,2,8,Baixo
+156,Dante Aparecida,10,Masculino,6,2,8,Médio
+157,Davi Luiz Martins,10,Masculino,6,2,8,Médio-Alto
+158,Manuella Leão,10,Feminino,6,2,8,Médio-Alto
+159,Hellena Macedo,10,Feminino,6,2,8,Médio-Alto
+160,Isabelly Santos,10,Feminino,6,2,8,Médio-Baixo
+161,Srta. Jade Barbosa,11,Feminino,7,2,9,Médio
+162,Carlos Eduardo Guerra,12,Masculino,7,2,9,Médio-Baixo
+163,Caroline Pires,12,Feminino,7,2,9,Médio-Baixo
+164,Rodrigo Leão,11,Masculino,7,2,9,Médio
+165,Pietro da Paz,11,Masculino,7,2,9,Médio
+166,Srta. Elisa Cunha,11,Feminino,7,2,9,Médio-Baixo
+167,Gael Henrique Sousa,13,Masculino,7,2,9,Médio
+168,Dr. Vinicius Fernandes,11,Masculino,7,2,9,Médio-Baixo
+169,Maya Andrade,11,Feminino,7,2,9,Médio
+170,Dr. Francisco Sampaio,11,Masculino,7,2,9,Médio-Alto
+171,Sr. Dante Gonçalves,13,Masculino,7,2,9,Médio
+172,Gabriela Macedo,12,Feminino,7,2,9,Baixo
+173,Pietra Almeida,13,Feminino,7,2,9,Médio-Alto
+174,Lívia das Neves,13,Feminino,7,2,9,Baixo
+175,Maria Flor Borges,13,Feminino,7,2,9,Médio
+176,Clarice Ramos,11,Feminino,7,2,9,Médio-Alto
+177,Emanuel Gomes,13,Masculino,7,2,9,Médio-Alto
+178,Dra. Aylla Ferreira,13,Feminino,7,2,9,Baixo
+179,Kaique das Neves,11,Masculino,7,2,9,Baixo
+180,Olivia Alves,12,Feminino,7,2,9,Baixo
+181,Maya Garcia,14,Feminino,8,2,10,Médio-Baixo
+182,Maria Julia Rodrigues,12,Feminino,8,2,10,Médio-Alto
+183,Maria Fernanda Ferreira,14,Feminino,8,2,10,Médio-Alto
+184,Ana Cecília Guerra,13,Feminino,8,2,10,Médio-Baixo
+185,Zoe Pacheco,14,Feminino,8,2,10,Médio
+186,Rhavi Castro,14,Masculino,8,2,10,Médio
+187,Daniel Machado,12,Masculino,8,2,10,Médio
+188,Marcela Sousa,14,Feminino,8,2,10,Médio
+189,Ana Clara da Cunha,14,Feminino,8,2,10,Baixo
+190,Rafaela Fonseca,13,Feminino,8,2,10,Médio
+191,Thales Albuquerque,14,Masculino,8,2,10,Médio-Baixo
+192,Antônio Lopes,14,Masculino,8,2,10,Médio-Alto
+193,Srta. Joana da Conceição,14,Feminino,8,2,10,Baixo
+194,Paulo Novaes,12,Masculino,8,2,10,Médio-Baixo
+195,Nicolas Ramos,14,Masculino,8,2,10,Médio-Alto
+196,Nathan das Neves,12,Masculino,8,2,10,Médio
+197,Dr. Josué Fonseca,14,Masculino,8,2,10,Médio-Alto
+198,Srta. Hadassa Dias,13,Feminino,8,2,10,Médio-Baixo
+199,Dra. Maya Moraes,12,Feminino,8,2,10,Médio
+200,Emanuel Cassiano,14,Masculino,8,2,10,Médio-Alto
+201,Ian Pacheco,10,Masculino,6,3,11,Médio-Baixo
+202,Henry Gabriel Sales,12,Masculino,6,3,11,Médio
+203,Catarina Novais,12,Feminino,6,3,11,Médio-Alto
+204,Antônio Casa Grande,12,Masculino,6,3,11,Baixo
+205,Isabela Cardoso,11,Feminino,6,3,11,Médio-Baixo
+206,Luiz Gustavo Garcia,11,Masculino,6,3,11,Médio
+207,Sofia Guerra,10,Feminino,6,3,11,Médio-Baixo
+208,Luan da Luz,10,Masculino,6,3,11,Médio-Alto
+209,Sr. João Lucas Siqueira,11,Masculino,6,3,11,Médio-Alto
+210,Dr. Benjamim Pastor,12,Masculino,6,3,11,Médio-Baixo
+211,Joaquim Costela,11,Masculino,6,3,11,Médio-Baixo
+212,Ravy Alves,11,Masculino,6,3,11,Baixo
+213,Dr. Thales Viana,10,Masculino,6,3,11,Médio-Baixo
+214,Gabriela Barros,12,Feminino,6,3,11,Médio-Alto
+215,Luiz Felipe Campos,11,Masculino,6,3,11,Baixo
+216,Isaac Cassiano,11,Masculino,6,3,11,Médio-Baixo
+217,Anna Liz Peixoto,11,Feminino,6,3,11,Médio
+218,Liam Fogaça,10,Masculino,6,3,11,Médio-Baixo
+219,Natália Azevedo,12,Feminino,6,3,11,Médio-Alto
+220,Elisa Vargas,10,Feminino,6,3,11,Médio
+221,Arthur Gabriel da Costa,15,Masculino,9,3,12,Médio
+222,Lorena Abreu,13,Feminino,9,3,12,Médio
+223,André Barros,15,Masculino,9,3,12,Médio-Alto
+224,Asafe Lima,15,Masculino,9,3,12,Médio-Baixo
+225,Marcelo Sousa,14,Masculino,9,3,12,Médio-Alto
+226,Srta. Maitê Novaes,15,Feminino,9,3,12,Médio
+227,Davi Miguel Moraes,15,Masculino,9,3,12,Baixo
+228,Sra. Raquel Pastor,15,Feminino,9,3,12,Médio
+229,Luiz Gustavo Mendonça,14,Masculino,9,3,12,Médio-Baixo
+230,Henry Gabriel Rocha,13,Masculino,9,3,12,Médio
+231,Gael Henrique Rocha,13,Masculino,9,3,12,Médio-Alto
+232,Dante Dias,14,Masculino,9,3,12,Médio
+233,Sra. Maria Clara Mendes,15,Feminino,9,3,12,Médio-Baixo
+234,Sr. José Pedro Cavalcante,13,Masculino,9,3,12,Médio-Baixo
+235,Olivia Moreira,15,Feminino,9,3,12,Médio
+236,Júlia Caldeira,13,Feminino,9,3,12,Médio-Alto
+237,Isabelly Gonçalves,13,Feminino,9,3,12,Médio-Alto
+238,Noah Teixeira,15,Masculino,9,3,12,Médio-Baixo
+239,Yasmin Nogueira,14,Feminino,9,3,12,Médio-Alto
+240,Vicente da Costa,15,Masculino,9,3,12,Baixo
+241,Vitória Rezende,11,Feminino,6,3,13,Médio
+242,Aurora Porto,10,Feminino,6,3,13,Médio
+243,Davi Ferreira,10,Masculino,6,3,13,Médio-Alto
+244,Benício Aparecida,12,Masculino,6,3,13,Baixo
+245,Cecília Vasconcelos,10,Feminino,6,3,13,Médio-Alto
+246,André Macedo,11,Masculino,6,3,13,Médio-Baixo
+247,Lorenzo Cirino,12,Masculino,6,3,13,Médio
+248,Beatriz Souza,12,Feminino,6,3,13,Médio-Baixo
+249,Helena Vargas,12,Feminino,6,3,13,Baixo
+250,Brayan Cavalcante,12,Masculino,6,3,13,Médio-Alto
+251,Antonella Sousa,12,Feminino,6,3,13,Médio-Baixo
+252,Luna Pastor,11,Feminino,6,3,13,Médio-Alto
+253,Maria Ribeiro,11,Feminino,6,3,13,Médio
+254,Lucas Gabriel Cirino,12,Masculino,6,3,13,Médio-Baixo
+255,João Felipe Ribeiro,11,Masculino,6,3,13,Médio-Baixo
+256,Samuel Pacheco,11,Masculino,6,3,13,Médio-Baixo
+257,Emanuella Moraes,10,Feminino,6,3,13,Baixo
+258,João Cardoso,10,Masculino,6,3,13,Baixo
+259,Maria Isis Sales,11,Feminino,6,3,13,Baixo
+260,Sr. Lorenzo da Paz,12,Masculino,6,3,13,Médio-Alto
+261,Gabriela Gomes,11,Feminino,6,3,14,Médio
+262,Marina Sousa,12,Feminino,6,3,14,Médio-Baixo
+263,Alícia Pimenta,11,Feminino,6,3,14,Baixo
+264,Liz Mendonça,10,Feminino,6,3,14,Médio-Baixo
+265,Luana Cunha,10,Feminino,6,3,14,Baixo
+266,Dr. Antônio Jesus,10,Masculino,6,3,14,Médio
+267,Sr. Lorenzo Araújo,12,Masculino,6,3,14,Médio-Baixo
+268,Sra. Vitória Barros,10,Feminino,6,3,14,Baixo
+269,Brenda Fonseca,10,Feminino,6,3,14,Médio-Alto
+270,Maria Luiza Macedo,12,Feminino,6,3,14,Médio
+271,Ana Luiza Leão,12,Feminino,6,3,14,Baixo
+272,Leonardo Fonseca,12,Masculino,6,3,14,Baixo
+273,Davi Lucas Machado,10,Masculino,6,3,14,Médio-Baixo
+274,Danilo Macedo,10,Masculino,6,3,14,Baixo
+275,Henry Gabriel Cavalcanti,11,Masculino,6,3,14,Médio-Baixo
+276,Dra. Ana Luiza Martins,11,Feminino,6,3,14,Médio-Baixo
+277,Antonella da Mota,12,Feminino,6,3,14,Médio
+278,Gustavo Henrique Porto,10,Masculino,6,3,14,Baixo
+279,Cauê Fonseca,12,Masculino,6,3,14,Médio-Alto
+280,Dr. Ryan da Cunha,11,Masculino,6,3,14,Médio-Alto
+281,Maria Helena Martins,13,Feminino,7,3,15,Médio
+282,Luna Caldeira,12,Feminino,7,3,15,Médio
+283,Diego Câmara,13,Masculino,7,3,15,Baixo
+284,Nicolas Lopes,13,Masculino,7,3,15,Médio-Baixo
+285,Sr. Yago Ferreira,12,Masculino,7,3,15,Médio-Baixo
+286,Maria Luísa Oliveira,11,Feminino,7,3,15,Médio-Baixo
+287,Yan Andrade,12,Masculino,7,3,15,Médio-Alto
+288,Enrico Abreu,12,Masculino,7,3,15,Baixo
+289,Caleb Costa,11,Masculino,7,3,15,Médio-Baixo
+290,Stephany Barros,13,Feminino,7,3,15,Médio-Baixo
+291,Laura Peixoto,13,Feminino,7,3,15,Médio-Baixo
+292,Vitor Gabriel Viana,13,Masculino,7,3,15,Médio
+293,Levi Machado,13,Masculino,7,3,15,Baixo
+294,Brenda Brito,13,Feminino,7,3,15,Médio-Baixo
+295,Ana Carolina Ramos,12,Feminino,7,3,15,Baixo
+296,Alana Cardoso,11,Feminino,7,3,15,Baixo
+297,Valentim Sá,11,Masculino,7,3,15,Baixo
+298,Ana Beatriz Martins,11,Feminino,7,3,15,Médio
+299,Nicole Pimenta,12,Feminino,7,3,15,Baixo
+300,Sofia Cavalcanti,13,Feminino,7,3,15,Médio
+301,Anthony Brito,13,Masculino,9,4,16,Médio-Baixo
+302,Eloá Teixeira,14,Feminino,9,4,16,Médio
+303,Nina Guerra,15,Feminino,9,4,16,Médio-Alto
+304,Isadora Brito,15,Feminino,9,4,16,Médio-Alto
+305,Maria Vitória das Neves,15,Feminino,9,4,16,Médio-Baixo
+306,Sr. Pedro Lucas Cardoso,14,Masculino,9,4,16,Médio-Alto
+307,Pedro Henrique Leão,15,Masculino,9,4,16,Médio
+308,Dr. Ian Pacheco,13,Masculino,9,4,16,Baixo
+309,Theodoro Casa Grande,15,Masculino,9,4,16,Baixo
+310,Hadassa Rocha,13,Feminino,9,4,16,Médio-Baixo
+311,Brenda Novais,15,Feminino,9,4,16,Baixo
+312,Dr. Renan Lima,15,Masculino,9,4,16,Médio-Baixo
+313,Srta. Ana Sophia Souza,13,Feminino,9,4,16,Médio-Baixo
+314,Anna Liz Peixoto,14,Feminino,9,4,16,Médio-Baixo
+315,Dr. Pedro Henrique Sampaio,14,Masculino,9,4,16,Baixo
+316,Sra. Lívia Lopes,13,Feminino,9,4,16,Médio-Alto
+317,Alexia Siqueira,14,Feminino,9,4,16,Baixo
+318,Pietra das Neves,15,Feminino,9,4,16,Baixo
+319,Sofia Barbosa,15,Feminino,9,4,16,Baixo
+320,Melissa Cardoso,15,Feminino,9,4,16,Baixo
+321,Sabrina Aragão,13,Feminino,8,4,17,Baixo
+322,Theo Azevedo,13,Masculino,8,4,17,Baixo
+323,Sr. José Pedro Cardoso,12,Masculino,8,4,17,Médio
+324,Maria Luiza Marques,14,Feminino,8,4,17,Baixo
+325,Aurora Siqueira,14,Feminino,8,4,17,Médio-Alto
+326,Luiz Gustavo Gonçalves,14,Masculino,8,4,17,Médio
+327,Valentim Marques,13,Masculino,8,4,17,Médio-Baixo
+328,Sara Ramos,12,Feminino,8,4,17,Médio-Baixo
+329,Yan Sampaio,12,Masculino,8,4,17,Médio
+330,Hellena Porto,13,Feminino,8,4,17,Médio
+331,João Felipe Costa,12,Masculino,8,4,17,Baixo
+332,Marcos Vinicius Almeida,13,Masculino,8,4,17,Médio-Baixo
+333,Ana Luiza Sales,13,Feminino,8,4,17,Médio
+334,Mirella Mendes,14,Feminino,8,4,17,Baixo
+335,Anna Liz Nunes,14,Feminino,8,4,17,Médio-Baixo
+336,Letícia da Rosa,14,Feminino,8,4,17,Médio
+337,Maria Eduarda Moraes,13,Feminino,8,4,17,Médio
+338,Davi Luiz Pinto,14,Masculino,8,4,17,Médio
+339,Aylla da Cunha,14,Feminino,8,4,17,Médio
+340,Gustavo Henrique Moraes,13,Masculino,8,4,17,Médio-Alto
+341,Arthur Melo,12,Masculino,8,4,18,Médio-Baixo
+342,Vicente Pinto,13,Masculino,8,4,18,Baixo
+343,Liz Vasconcelos,12,Feminino,8,4,18,Baixo
+344,Julia Fernandes,14,Feminino,8,4,18,Médio-Baixo
+345,Igor da Paz,14,Masculino,8,4,18,Médio-Alto
+346,Dr. Nathan da Rocha,13,Masculino,8,4,18,Médio
+347,Daniela da Cruz,14,Feminino,8,4,18,Médio-Baixo
+348,Davi Lucas Mendonça,14,Masculino,8,4,18,Médio
+349,João Guilherme Araújo,13,Masculino,8,4,18,Médio-Alto
+350,Matteo da Rocha,14,Masculino,8,4,18,Médio-Baixo
+351,Luan Mendes,13,Masculino,8,4,18,Médio-Baixo
+352,Alexia Porto,13,Feminino,8,4,18,Baixo
+353,Dr. Benjamin Nogueira,13,Masculino,8,4,18,Médio-Alto
+354,Srta. Juliana da Mota,13,Feminino,8,4,18,Baixo
+355,Arthur Vieira,14,Masculino,8,4,18,Baixo
+356,Leonardo Abreu,12,Masculino,8,4,18,Baixo
+357,Antonella Silva,14,Feminino,8,4,18,Médio-Alto
+358,Stephany Nascimento,14,Feminino,8,4,18,Médio
+359,Sophie Leão,14,Feminino,8,4,18,Médio-Baixo
+360,Manuella Sales,14,Feminino,8,4,18,Médio
+361,Juliana Cardoso,14,Feminino,9,4,19,Médio-Alto
+362,Bryan da Cruz,14,Masculino,9,4,19,Médio
+363,Dra. Clara das Neves,13,Feminino,9,4,19,Médio
+364,Mathias Aparecida,14,Masculino,9,4,19,Baixo
+365,Sofia Ferreira,14,Feminino,9,4,19,Médio-Alto
+366,Matheus Pereira,15,Masculino,9,4,19,Baixo
+367,Eduarda Macedo,15,Feminino,9,4,19,Médio
+368,Camila Brito,15,Feminino,9,4,19,Médio
+369,Sr. Cauã Machado,15,Masculino,9,4,19,Médio-Alto
+370,Dr. Pedro Henrique Rodrigues,15,Masculino,9,4,19,Médio-Alto
+371,Melissa Cavalcanti,14,Feminino,9,4,19,Baixo
+372,Emanuelly da Rosa,13,Feminino,9,4,19,Baixo
+373,Gabriel Cardoso,13,Masculino,9,4,19,Médio
+374,Sra. Ana Lívia Leão,14,Feminino,9,4,19,Baixo
+375,Gael Cirino,13,Masculino,9,4,19,Médio-Baixo
+376,Ravy Novais,13,Masculino,9,4,19,Médio-Alto
+377,João Pedro da Conceição,14,Masculino,9,4,19,Baixo
+378,Thomas Nascimento,14,Masculino,9,4,19,Baixo
+379,Laís Azevedo,14,Feminino,9,4,19,Médio
+380,Léo Leão,15,Masculino,9,4,19,Médio
+381,Guilherme Camargo,10,Masculino,6,4,20,Médio-Baixo
+382,Vitor Gabriel Brito,12,Masculino,6,4,20,Médio-Baixo
+383,Dr. Valentim Fernandes,11,Masculino,6,4,20,Baixo
+384,João Guilherme Rios,11,Masculino,6,4,20,Médio
+385,Alana Machado,11,Feminino,6,4,20,Médio
+386,Dra. Ana Sophia da Rosa,12,Feminino,6,4,20,Médio-Alto
+387,José Oliveira,10,Masculino,6,4,20,Médio-Alto
+388,Luiz Gustavo da Cruz,11,Masculino,6,4,20,Baixo
+389,Dom Marques,12,Masculino,6,4,20,Baixo
+390,Srta. Marina Mendes,10,Feminino,6,4,20,Médio-Alto
+391,Matteo Cunha,12,Masculino,6,4,20,Médio-Alto
+392,Dr. João Felipe Borges,12,Masculino,6,4,20,Médio-Baixo
+393,Anna Liz Barbosa,10,Feminino,6,4,20,Médio
+394,Maysa Jesus,10,Feminino,6,4,20,Baixo
+395,Dr. Miguel Peixoto,12,Masculino,6,4,20,Médio
+396,Júlia Câmara,10,Feminino,6,4,20,Médio
+397,Rael Porto,12,Masculino,6,4,20,Baixo
+398,Pedro Henrique Sales,11,Masculino,6,4,20,Médio-Baixo
+399,Murilo Sampaio,10,Masculino,6,4,20,Baixo
+400,Gabriela Alves,11,Feminino,6,4,20,Baixo
+401,Rael Lopes,11,Masculino,6,5,21,Baixo
+402,Cecília Porto,12,Feminino,6,5,21,Médio-Baixo
+403,Rafael Camargo,11,Masculino,6,5,21,Baixo
+404,João Miguel Cunha,11,Masculino,6,5,21,Baixo
+405,Laura Guerra,12,Feminino,6,5,21,Médio-Baixo
+406,Amanda Vasconcelos,12,Feminino,6,5,21,Médio-Baixo
+407,Lorenzo Brito,10,Masculino,6,5,21,Médio-Baixo
+408,Gabriela Lopes,11,Feminino,6,5,21,Médio-Baixo
+409,Dra. Maria Vitória Freitas,12,Feminino,6,5,21,Médio-Alto
+410,Maysa Pinto,11,Feminino,6,5,21,Médio
+411,Ana Carolina Caldeira,10,Feminino,6,5,21,Médio-Alto
+412,Vitória da Conceição,11,Feminino,6,5,21,Médio
+413,Luna Vieira,12,Feminino,6,5,21,Médio-Baixo
+414,Vicente Pimenta,11,Masculino,6,5,21,Médio-Baixo
+415,Raul Cassiano,11,Masculino,6,5,21,Médio-Alto
+416,Mathias Cassiano,12,Masculino,6,5,21,Médio-Baixo
+417,Kevin Aragão,10,Masculino,6,5,21,Médio
+418,Srta. Ana Júlia da Cruz,12,Feminino,6,5,21,Médio-Baixo
+419,Manuella Sampaio,11,Feminino,6,5,21,Médio-Alto
+420,Juan Fernandes,10,Masculino,6,5,21,Baixo
+421,Srta. Maria Luísa Albuquerque,12,Feminino,8,5,22,Médio-Baixo
+422,Yan Sales,14,Masculino,8,5,22,Médio
+423,Rodrigo Macedo,13,Masculino,8,5,22,Médio-Baixo
+424,Kaique Mendonça,14,Masculino,8,5,22,Médio
+425,Diego Albuquerque,12,Masculino,8,5,22,Médio
+426,Lívia Novaes,13,Feminino,8,5,22,Médio-Baixo
+427,Natália Melo,13,Feminino,8,5,22,Médio
+428,Antônio Silveira,12,Masculino,8,5,22,Médio-Alto
+429,Alexandre da Rocha,13,Masculino,8,5,22,Médio-Baixo
+430,Arthur Vasconcelos,14,Masculino,8,5,22,Médio-Alto
+431,Carlos Eduardo Sousa,13,Masculino,8,5,22,Baixo
+432,Clara Teixeira,12,Feminino,8,5,22,Baixo
+433,Matteo Porto,12,Masculino,8,5,22,Baixo
+434,Pedro Miguel Guerra,13,Masculino,8,5,22,Médio-Baixo
+435,José Pedro da Cunha,13,Masculino,8,5,22,Médio
+436,Ágatha da Mata,14,Feminino,8,5,22,Baixo
+437,Sr. Luigi Pinto,12,Masculino,8,5,22,Médio
+438,José Farias,12,Masculino,8,5,22,Médio
+439,Kevin Pinto,14,Masculino,8,5,22,Médio-Baixo
+440,Yago Aragão,13,Masculino,8,5,22,Médio-Baixo
+441,Dr. João Miguel Barbosa,13,Masculino,9,5,23,Baixo
+442,João Dias,13,Masculino,9,5,23,Médio-Alto
+443,Dr. Noah Peixoto,14,Masculino,9,5,23,Médio-Baixo
+444,Francisco Cassiano,14,Masculino,9,5,23,Médio-Alto
+445,Theodoro Montenegro,15,Masculino,9,5,23,Médio-Baixo
+446,Sr. Eduardo Silveira,15,Masculino,9,5,23,Baixo
+447,Ana Silveira,15,Feminino,9,5,23,Médio
+448,Melina Jesus,15,Feminino,9,5,23,Baixo
+449,Luana Costela,15,Feminino,9,5,23,Médio-Alto
+450,Josué da Rosa,15,Masculino,9,5,23,Baixo
+451,João Gabriel Farias,15,Masculino,9,5,23,Baixo
+452,Dra. Anna Liz Siqueira,14,Feminino,9,5,23,Baixo
+453,Dr. Vinicius Santos,14,Masculino,9,5,23,Baixo
+454,Lavínia Rios,13,Feminino,9,5,23,Médio-Baixo
+455,Sr. Luigi Novais,14,Masculino,9,5,23,Médio
+456,Luiz Fernando Dias,15,Masculino,9,5,23,Médio
+457,Ana Cecília Caldeira,13,Feminino,9,5,23,Médio
+458,Ian Vargas,15,Masculino,9,5,23,Baixo
+459,Calebe da Luz,15,Masculino,9,5,23,Médio-Baixo
+460,Guilherme Campos,15,Masculino,9,5,23,Baixo
+461,Stephany Montenegro,12,Feminino,6,5,24,Baixo
+462,Srta. Beatriz Ferreira,10,Feminino,6,5,24,Médio
+463,Mariah Sampaio,11,Feminino,6,5,24,Baixo
+464,Antônio Moraes,11,Masculino,6,5,24,Médio-Alto
+465,Sra. Olivia Araújo,12,Feminino,6,5,24,Baixo
+466,Ana Cecília Dias,12,Feminino,6,5,24,Médio-Baixo
+467,João Vitor Machado,12,Masculino,6,5,24,Médio-Alto
+468,Emilly da Cunha,12,Feminino,6,5,24,Médio-Alto
+469,Maysa Moura,10,Feminino,6,5,24,Médio-Alto
+470,Sara Peixoto,11,Feminino,6,5,24,Baixo
+471,Juliana Siqueira,11,Feminino,6,5,24,Médio-Baixo
+472,Sr. Davi Lucca Pacheco,11,Masculino,6,5,24,Médio-Baixo
+473,Dra. Sarah Fonseca,10,Feminino,6,5,24,Médio-Alto
+474,Ana Laura da Conceição,11,Feminino,6,5,24,Médio-Alto
+475,Sr. Caleb Pereira,11,Masculino,6,5,24,Médio-Baixo
+476,Sophie Machado,12,Feminino,6,5,24,Médio
+477,Bella Rios,10,Feminino,6,5,24,Médio
+478,Srta. Lara das Neves,12,Feminino,6,5,24,Médio-Alto
+479,Milena Sá,10,Feminino,6,5,24,Médio
+480,Dra. Sabrina Barbosa,10,Feminino,6,5,24,Médio-Alto
+481,Sr. Ian Rezende,14,Masculino,9,5,25,Baixo
+482,Josué Pimenta,15,Masculino,9,5,25,Médio-Alto
+483,Maria Luísa Rocha,13,Feminino,9,5,25,Médio-Baixo
+484,Luiz Miguel Fonseca,13,Masculino,9,5,25,Médio
+485,Dr. Rodrigo Montenegro,14,Masculino,9,5,25,Médio-Baixo
+486,Léo Caldeira,15,Masculino,9,5,25,Baixo
+487,Pedro Casa Grande,15,Masculino,9,5,25,Médio-Alto
+488,Isadora Martins,13,Feminino,9,5,25,Baixo
+489,Rafael da Cunha,15,Masculino,9,5,25,Baixo
+490,Dr. Matteo Vieira,13,Masculino,9,5,25,Médio-Alto
+491,Agatha Martins,15,Feminino,9,5,25,Médio-Alto
+492,Sr. Vinícius Brito,15,Masculino,9,5,25,Médio-Baixo
+493,Davi Lucas Cardoso,13,Masculino,9,5,25,Baixo
+494,Sra. Ana Luiza Camargo,14,Feminino,9,5,25,Médio-Baixo
+495,Diogo Andrade,15,Masculino,9,5,25,Baixo
+496,Otto Aragão,14,Masculino,9,5,25,Médio
+497,Zoe Siqueira,13,Feminino,9,5,25,Médio
+498,Clarice Santos,13,Feminino,9,5,25,Médio-Alto
+499,Gustavo Sales,15,Masculino,9,5,25,Médio-Baixo
+500,Caleb Caldeira,13,Masculino,9,5,25,Baixo
+501,Enzo Martins,14,Masculino,8,6,26,Baixo
+502,Sr. Matheus Macedo,12,Masculino,8,6,26,Médio
+503,Francisco Gonçalves,12,Masculino,8,6,26,Médio-Alto
+504,Vitor Gabriel Rezende,12,Masculino,8,6,26,Médio
+505,Isaque Almeida,13,Masculino,8,6,26,Médio-Alto
+506,Alana Araújo,12,Feminino,8,6,26,Médio
+507,Dr. Luigi Rios,14,Masculino,8,6,26,Baixo
+508,Juan da Costa,13,Masculino,8,6,26,Médio-Baixo
+509,João Vitor Cavalcante,14,Masculino,8,6,26,Médio-Baixo
+510,Noah Gonçalves,14,Masculino,8,6,26,Médio-Baixo
+511,Miguel Oliveira,12,Masculino,8,6,26,Médio-Alto
+512,Ravi Lucca Siqueira,12,Masculino,8,6,26,Médio
+513,Levi Machado,14,Masculino,8,6,26,Médio
+514,Igor Campos,14,Masculino,8,6,26,Médio
+515,Manuela Novais,12,Feminino,8,6,26,Médio-Baixo
+516,Allana da Costa,13,Feminino,8,6,26,Baixo
+517,Liam Leão,12,Masculino,8,6,26,Baixo
+518,Pedro Peixoto,12,Masculino,8,6,26,Baixo
+519,Elisa Nogueira,12,Feminino,8,6,26,Médio-Baixo
+520,Maria Cecília Vasconcelos,12,Feminino,8,6,26,Médio-Baixo
+521,Kaique Cavalcanti,14,Masculino,9,6,27,Baixo
+522,Srta. Lívia Borges,14,Feminino,9,6,27,Médio-Baixo
+523,Heloísa Campos,13,Feminino,9,6,27,Médio
+524,Ágatha Albuquerque,13,Feminino,9,6,27,Baixo
+525,Maria Liz Montenegro,14,Feminino,9,6,27,Médio-Baixo
+526,Emilly Garcia,13,Feminino,9,6,27,Baixo
+527,Isaac Sampaio,14,Masculino,9,6,27,Médio-Baixo
+528,Dr. Rhavi Araújo,14,Masculino,9,6,27,Baixo
+529,Maitê das Neves,15,Feminino,9,6,27,Baixo
+530,João Miguel Cunha,15,Masculino,9,6,27,Médio-Baixo
+531,Maria Helena Garcia,13,Feminino,9,6,27,Médio-Baixo
+532,Maitê da Cruz,15,Feminino,9,6,27,Médio
+533,João Felipe Duarte,15,Masculino,9,6,27,Baixo
+534,Alana Campos,14,Feminino,9,6,27,Médio-Alto
+535,Carlos Eduardo Caldeira,15,Masculino,9,6,27,Médio
+536,João Lucas Alves,15,Masculino,9,6,27,Médio-Alto
+537,João Macedo,14,Masculino,9,6,27,Baixo
+538,Kamilly Silveira,13,Feminino,9,6,27,Médio-Alto
+539,Sabrina Nunes,14,Feminino,9,6,27,Médio-Baixo
+540,Ana Pereira,15,Feminino,9,6,27,Médio-Baixo
+541,Diogo Martins,12,Masculino,8,6,28,Baixo
+542,Fernando Almeida,13,Masculino,8,6,28,Médio-Baixo
+543,Eloá Aparecida,13,Feminino,8,6,28,Médio-Alto
+544,Dra. Heloisa Peixoto,12,Feminino,8,6,28,Médio-Baixo
+545,Rodrigo Costela,12,Masculino,8,6,28,Médio-Baixo
+546,Luigi Novais,14,Masculino,8,6,28,Baixo
+547,Dra. Larissa Brito,13,Feminino,8,6,28,Médio
+548,Augusto Jesus,12,Masculino,8,6,28,Baixo
+549,Theo Sales,12,Masculino,8,6,28,Baixo
+550,Sra. Nicole Moreira,13,Feminino,8,6,28,Médio
+551,Isabela Nunes,13,Feminino,8,6,28,Médio-Alto
+552,Erick Fernandes,12,Masculino,8,6,28,Médio-Baixo
+553,Helena da Paz,14,Feminino,8,6,28,Baixo
+554,Melina Rocha,14,Feminino,8,6,28,Médio-Baixo
+555,Valentina Gomes,14,Feminino,8,6,28,Médio
+556,Lunna Viana,13,Feminino,8,6,28,Médio
+557,Yan Costa,14,Masculino,8,6,28,Médio-Baixo
+558,Dom Pimenta,13,Masculino,8,6,28,Médio-Alto
+559,Daniela Nascimento,12,Feminino,8,6,28,Médio-Baixo
+560,Laís Brito,13,Feminino,8,6,28,Médio-Baixo
+561,Catarina Fogaça,12,Feminino,7,6,29,Baixo
+562,Vicente Leão,13,Masculino,7,6,29,Médio
+563,Augusto Farias,13,Masculino,7,6,29,Médio-Baixo
+564,Raquel Almeida,13,Feminino,7,6,29,Médio
+565,Srta. Helena Fernandes,12,Feminino,7,6,29,Médio
+566,Ana Julia Aragão,12,Feminino,7,6,29,Médio
+567,Luara Moraes,12,Feminino,7,6,29,Médio-Baixo
+568,Laís Vasconcelos,11,Feminino,7,6,29,Médio-Baixo
+569,João Gabriel Vasconcelos,12,Masculino,7,6,29,Médio
+570,Mateus Rodrigues,12,Masculino,7,6,29,Baixo
+571,Cecilia Silva,11,Feminino,7,6,29,Baixo
+572,Sophie Azevedo,13,Feminino,7,6,29,Médio-Alto
+573,Dr. Davi Miguel Duarte,11,Masculino,7,6,29,Médio
+574,Srta. Ana Beatriz Guerra,12,Feminino,7,6,29,Baixo
+575,Isaac Vargas,11,Masculino,7,6,29,Baixo
+576,Mariane Dias,13,Feminino,7,6,29,Baixo
+577,Ana Laura da Rosa,12,Feminino,7,6,29,Baixo
+578,Sra. Carolina Mendonça,13,Feminino,7,6,29,Médio-Alto
+579,Diogo Rodrigues,13,Masculino,7,6,29,Médio-Baixo
+580,Mariana Lopes,11,Feminino,7,6,29,Médio-Baixo
+581,Bernardo Freitas,13,Masculino,8,6,30,Médio-Baixo
+582,Lorenzo Cavalcanti,14,Masculino,8,6,30,Médio-Baixo
+583,Rafaela Campos,14,Feminino,8,6,30,Médio
+584,Vitor Moreira,12,Masculino,8,6,30,Médio-Alto
+585,Sr. Nathan Novaes,12,Masculino,8,6,30,Médio
+586,Sr. Dom Fernandes,12,Masculino,8,6,30,Médio
+587,Ana Vitória Araújo,12,Feminino,8,6,30,Médio
+588,Maria Júlia da Costa,14,Feminino,8,6,30,Médio-Alto
+589,João Lucas Andrade,12,Masculino,8,6,30,Médio-Baixo
+590,Dr. Guilherme da Cruz,12,Masculino,8,6,30,Médio
+591,Elisa Andrade,13,Feminino,8,6,30,Baixo
+592,Amanda Mendonça,13,Feminino,8,6,30,Médio-Alto
+593,Thomas Melo,14,Masculino,8,6,30,Médio-Alto
+594,Dra. Stephany Porto,13,Feminino,8,6,30,Baixo
+595,Clara Macedo,14,Feminino,8,6,30,Baixo
+596,Dr. Lucas Fonseca,14,Masculino,8,6,30,Médio-Baixo
+597,Davi Ferreira,14,Masculino,8,6,30,Médio-Alto
+598,Diogo Sampaio,12,Masculino,8,6,30,Baixo
+599,Dra. Maria Luísa Ferreira,12,Feminino,8,6,30,Baixo
+600,Yuri Costela,14,Masculino,8,6,30,Médio-Baixo
+601,Giovanna Duarte,11,Feminino,7,7,31,Médio-Baixo
+602,Ana Liz Garcia,11,Feminino,7,7,31,Baixo
+603,Luiz Henrique Martins,13,Masculino,7,7,31,Baixo
+604,Leandro Correia,11,Masculino,7,7,31,Baixo
+605,Dr. Raul Marques,11,Masculino,7,7,31,Médio-Alto
+606,Sra. Daniela Guerra,12,Feminino,7,7,31,Baixo
+607,Bento Moura,13,Masculino,7,7,31,Médio-Alto
+608,Dra. Maria Liz Borges,11,Feminino,7,7,31,Médio-Alto
+609,Isabella Martins,11,Feminino,7,7,31,Médio-Alto
+610,Leonardo Lopes,13,Masculino,7,7,31,Médio
+611,Dr. Luiz Miguel Barbosa,13,Masculino,7,7,31,Médio
+612,Lorenzo Monteiro,11,Masculino,7,7,31,Baixo
+613,Dra. Heloísa Alves,11,Feminino,7,7,31,Médio-Alto
+614,Léo Pacheco,13,Masculino,7,7,31,Médio-Baixo
+615,Sra. Eduarda Lima,13,Feminino,7,7,31,Baixo
+616,Bella Sales,12,Feminino,7,7,31,Baixo
+617,Benjamin Leão,11,Masculino,7,7,31,Baixo
+618,Alana Farias,11,Feminino,7,7,31,Médio-Alto
+619,Eduardo Abreu,11,Masculino,7,7,31,Baixo
+620,Daniela da Mata,11,Feminino,7,7,31,Médio
+621,Leonardo Sousa,12,Masculino,6,7,32,Médio-Alto
+622,Augusto Moraes,10,Masculino,6,7,32,Médio-Baixo
+623,Mathias Fernandes,11,Masculino,6,7,32,Baixo
+624,Dr. Benjamin Oliveira,11,Masculino,6,7,32,Médio-Alto
+625,Vitor Hugo Aparecida,12,Masculino,6,7,32,Baixo
+626,Rael Cavalcante,12,Masculino,6,7,32,Médio-Baixo
+627,Sr. Felipe Pimenta,10,Masculino,6,7,32,Médio-Alto
+628,Sr. Thales Correia,11,Masculino,6,7,32,Médio-Alto
+629,Raul Pastor,11,Masculino,6,7,32,Baixo
+630,Brenda Vasconcelos,11,Feminino,6,7,32,Médio
+631,Daniel Casa Grande,10,Masculino,6,7,32,Médio-Alto
+632,Nina Fogaça,11,Feminino,6,7,32,Médio
+633,Emilly Fernandes,11,Feminino,6,7,32,Médio-Baixo
+634,Sr. Francisco Marques,12,Masculino,6,7,32,Médio
+635,Pedro Pires,11,Masculino,6,7,32,Médio-Baixo
+636,Sr. Marcos Vinicius Fernandes,10,Masculino,6,7,32,Baixo
+637,Isadora Campos,10,Feminino,6,7,32,Baixo
+638,Olívia Ferreira,11,Feminino,6,7,32,Médio-Baixo
+639,Dr. Breno Ribeiro,12,Masculino,6,7,32,Médio-Alto
+640,Heloísa Cavalcanti,10,Feminino,6,7,32,Médio-Baixo
+641,Lucas da Rocha,11,Masculino,7,7,33,Médio
+642,Felipe Aparecida,13,Masculino,7,7,33,Médio-Alto
+643,Luan Sá,11,Masculino,7,7,33,Baixo
+644,Bárbara Vieira,12,Feminino,7,7,33,Médio-Baixo
+645,Alexia Abreu,11,Feminino,7,7,33,Baixo
+646,Pedro Abreu,12,Masculino,7,7,33,Médio-Alto
+647,Ágatha da Luz,12,Feminino,7,7,33,Médio-Alto
+648,Brayan Gomes,12,Masculino,7,7,33,Médio-Baixo
+649,João Felipe da Costa,12,Masculino,7,7,33,Baixo
+650,Asafe Silveira,11,Masculino,7,7,33,Médio-Alto
+651,Maria Sophia Correia,12,Feminino,7,7,33,Médio-Alto
+652,Enrico Cunha,11,Masculino,7,7,33,Médio
+653,Oliver Ribeiro,12,Masculino,7,7,33,Baixo
+654,Anthony Alves,12,Masculino,7,7,33,Médio
+655,Alexia Caldeira,13,Feminino,7,7,33,Médio
+656,Enzo Gabriel Lopes,11,Masculino,7,7,33,Médio
+657,Leonardo da Costa,12,Masculino,7,7,33,Baixo
+658,Ana Luiza Fernandes,13,Feminino,7,7,33,Baixo
+659,Dra. Gabrielly Siqueira,13,Feminino,7,7,33,Baixo
+660,Emanuella Siqueira,11,Feminino,7,7,33,Médio-Baixo
+661,Ana Macedo,14,Feminino,8,7,34,Baixo
+662,Vicente Machado,14,Masculino,8,7,34,Médio-Alto
+663,Eloá Sousa,12,Feminino,8,7,34,Médio-Alto
+664,Caroline Oliveira,13,Feminino,8,7,34,Médio-Alto
+665,Gabrielly Leão,13,Feminino,8,7,34,Médio-Baixo
+666,Eloah Pastor,13,Feminino,8,7,34,Médio
+667,Théo da Mata,13,Masculino,8,7,34,Médio-Baixo
+668,Dom Pinto,13,Masculino,8,7,34,Médio
+669,Davi Lucas Alves,12,Masculino,8,7,34,Médio-Baixo
+670,Srta. Lavínia Sampaio,12,Feminino,8,7,34,Médio-Baixo
+671,Ana Laura Peixoto,13,Feminino,8,7,34,Médio-Baixo
+672,Ágatha Aragão,14,Feminino,8,7,34,Médio-Baixo
+673,Srta. Rebeca Rodrigues,12,Feminino,8,7,34,Baixo
+674,Vitor Caldeira,13,Masculino,8,7,34,Médio
+675,Caleb Souza,12,Masculino,8,7,34,Médio
+676,Emilly Leão,13,Feminino,8,7,34,Médio-Alto
+677,Manuella Viana,12,Feminino,8,7,34,Médio-Baixo
+678,Dra. Mariah Pinto,12,Feminino,8,7,34,Médio
+679,Emanuel Pires,14,Masculino,8,7,34,Médio-Alto
+680,Sra. Maria Eduarda das Neves,12,Feminino,8,7,34,Baixo
+681,Júlia Montenegro,12,Feminino,6,7,35,Baixo
+682,Isabelly Borges,11,Feminino,6,7,35,Baixo
+683,Gabriela Moura,11,Feminino,6,7,35,Médio-Baixo
+684,Calebe Montenegro,10,Masculino,6,7,35,Baixo
+685,Levi Pereira,10,Masculino,6,7,35,Médio-Baixo
+686,Davi Lucas Peixoto,12,Masculino,6,7,35,Médio-Alto
+687,Ana Lívia Abreu,10,Feminino,6,7,35,Médio-Alto
+688,Maria Luiza Almeida,10,Feminino,6,7,35,Baixo
+689,Maria Sophia Pastor,10,Feminino,6,7,35,Baixo
+690,Maria Helena Mendonça,11,Feminino,6,7,35,Médio-Alto
+691,Dr. Ravi Macedo,10,Masculino,6,7,35,Baixo
+692,Manuela Cunha,12,Feminino,6,7,35,Baixo
+693,Henry Gabriel Carvalho,12,Masculino,6,7,35,Baixo
+694,Nathan Jesus,12,Masculino,6,7,35,Médio-Baixo
+695,Jade da Paz,12,Feminino,6,7,35,Médio-Baixo
+696,Pedro Sampaio,11,Masculino,6,7,35,Baixo
+697,Bianca Sampaio,12,Feminino,6,7,35,Médio-Alto
+698,Dra. Lunna Silveira,12,Feminino,6,7,35,Médio-Alto
+699,Enzo Gabriel Nascimento,12,Masculino,6,7,35,Médio-Baixo
+700,Gustavo Sales,12,Masculino,6,7,35,Médio
+701,Juan da Cunha,13,Masculino,8,8,36,Baixo
+702,Lorenzo Moura,13,Masculino,8,8,36,Baixo
+703,Sra. Ana Júlia Guerra,12,Feminino,8,8,36,Médio
+704,Sarah Garcia,12,Feminino,8,8,36,Médio-Alto
+705,Sr. Vinicius Cassiano,13,Masculino,8,8,36,Baixo
+706,Lara Monteiro,12,Feminino,8,8,36,Médio-Baixo
+707,Rebeca Martins,12,Feminino,8,8,36,Médio-Baixo
+708,Dr. João da Rosa,13,Masculino,8,8,36,Médio-Alto
+709,Enrico Jesus,13,Masculino,8,8,36,Médio-Baixo
+710,Emanuelly Cavalcante,14,Feminino,8,8,36,Médio
+711,Vitor Gabriel Novais,14,Masculino,8,8,36,Médio-Baixo
+712,Luiz Miguel da Luz,12,Masculino,8,8,36,Médio
+713,Davi Lucca Farias,14,Masculino,8,8,36,Médio-Alto
+714,Bernardo Pacheco,12,Masculino,8,8,36,Médio-Baixo
+715,Ana Cardoso,12,Feminino,8,8,36,Médio-Alto
+716,Luiz Gustavo Ramos,13,Masculino,8,8,36,Médio
+717,Josué Farias,13,Masculino,8,8,36,Baixo
+718,Théo Freitas,13,Masculino,8,8,36,Baixo
+719,Benjamim Novaes,12,Masculino,8,8,36,Médio
+720,Natália Marques,14,Feminino,8,8,36,Médio
+721,José Pimenta,12,Masculino,8,8,37,Médio
+722,Bella Cavalcanti,12,Feminino,8,8,37,Médio-Baixo
+723,Thomas Castro,12,Masculino,8,8,37,Médio
+724,Stella Novais,13,Feminino,8,8,37,Médio
+725,Nicole Teixeira,14,Feminino,8,8,37,Médio
+726,Dr. Otto Mendonça,12,Masculino,8,8,37,Médio
+727,Dra. Bruna Fonseca,13,Feminino,8,8,37,Baixo
+728,Sr. Pedro Santos,13,Masculino,8,8,37,Baixo
+729,Gustavo Henrique Azevedo,14,Masculino,8,8,37,Médio
+730,Erick Carvalho,14,Masculino,8,8,37,Médio
+731,Ravi Lucca Brito,12,Masculino,8,8,37,Baixo
+732,Diego Cassiano,12,Masculino,8,8,37,Médio-Alto
+733,Miguel Novais,13,Masculino,8,8,37,Médio-Baixo
+734,Maitê da Costa,13,Feminino,8,8,37,Baixo
+735,Valentim Melo,13,Masculino,8,8,37,Médio
+736,Nathan Aragão,13,Masculino,8,8,37,Médio-Alto
+737,Srta. Lunna Vargas,13,Feminino,8,8,37,Médio-Alto
+738,Renan Leão,14,Masculino,8,8,37,Médio
+739,Ian Câmara,12,Masculino,8,8,37,Médio-Alto
+740,Ana Julia Moraes,13,Feminino,8,8,37,Baixo
+741,Luiz Miguel da Mota,10,Masculino,6,8,38,Médio
+742,Maya Macedo,11,Feminino,6,8,38,Médio-Baixo
+743,Yasmin Pires,11,Feminino,6,8,38,Médio-Alto
+744,Ayla Viana,11,Feminino,6,8,38,Médio-Alto
+745,Ana Vitória Lima,10,Feminino,6,8,38,Baixo
+746,Eloah Vargas,10,Feminino,6,8,38,Médio-Baixo
+747,Yasmin Lopes,12,Feminino,6,8,38,Baixo
+748,Heloísa Fogaça,12,Feminino,6,8,38,Médio-Alto
+749,Ana Julia Gonçalves,11,Feminino,6,8,38,Médio
+750,Benjamim Cassiano,10,Masculino,6,8,38,Médio
+751,Ísis Viana,10,Feminino,6,8,38,Baixo
+752,Isabel Abreu,12,Feminino,6,8,38,Médio-Alto
+753,Dr. Anthony Gabriel Cavalcante,12,Masculino,6,8,38,Médio-Baixo
+754,Emanuelly Brito,12,Feminino,6,8,38,Médio-Baixo
+755,Isis Sá,10,Feminino,6,8,38,Baixo
+756,Isaac Monteiro,12,Masculino,6,8,38,Médio
+757,Matheus Nunes,11,Masculino,6,8,38,Médio-Alto
+758,Leonardo Marques,11,Masculino,6,8,38,Baixo
+759,Isabela Barbosa,12,Feminino,6,8,38,Baixo
+760,Eloah Moura,11,Feminino,6,8,38,Baixo
+761,Antonella Correia,10,Feminino,6,8,39,Baixo
+762,Fernando Fogaça,10,Masculino,6,8,39,Médio-Baixo
+763,Dom Câmara,10,Masculino,6,8,39,Médio-Baixo
+764,Marcos Vinicius Fonseca,12,Masculino,6,8,39,Médio-Alto
+765,Vicente Cunha,11,Masculino,6,8,39,Médio-Alto
+766,Ryan Cassiano,12,Masculino,6,8,39,Médio
+767,Sra. Anna Liz Correia,10,Feminino,6,8,39,Médio-Baixo
+768,Zoe Pastor,10,Feminino,6,8,39,Médio
+769,Sr. Vinícius da Paz,11,Masculino,6,8,39,Baixo
+770,Bryan Carvalho,12,Masculino,6,8,39,Médio
+771,Isabel Duarte,11,Feminino,6,8,39,Médio-Baixo
+772,Ana Lívia Freitas,10,Feminino,6,8,39,Médio-Baixo
+773,Raquel Rios,12,Feminino,6,8,39,Baixo
+774,João Gabriel da Cruz,10,Masculino,6,8,39,Baixo
+775,Giovanna Silva,11,Feminino,6,8,39,Médio
+776,Vitor Gabriel Pires,10,Masculino,6,8,39,Médio-Alto
+777,Olívia Guerra,12,Feminino,6,8,39,Médio-Baixo
+778,Alexia Ribeiro,10,Feminino,6,8,39,Médio
+779,Melina Fogaça,12,Feminino,6,8,39,Médio-Alto
+780,Maria Júlia Monteiro,12,Feminino,6,8,39,Médio
+781,Renan da Costa,14,Masculino,9,8,40,Baixo
+782,Pietro Viana,14,Masculino,9,8,40,Médio-Alto
+783,Brenda da Cruz,15,Feminino,9,8,40,Médio
+784,Brayan Brito,15,Masculino,9,8,40,Médio-Alto
+785,Beatriz da Costa,13,Feminino,9,8,40,Médio-Baixo
+786,Heloisa Ferreira,13,Feminino,9,8,40,Médio-Alto
+787,Ana Clara Costa,14,Feminino,9,8,40,Médio-Alto
+788,João Siqueira,14,Masculino,9,8,40,Baixo
+789,Ana Beatriz Pinto,15,Feminino,9,8,40,Médio-Alto
+790,Sophie Mendes,13,Feminino,9,8,40,Médio-Baixo
+791,Davi Lucca Macedo,15,Masculino,9,8,40,Médio-Baixo
+792,Bryan Siqueira,14,Masculino,9,8,40,Baixo
+793,Raul Machado,15,Masculino,9,8,40,Médio-Alto
+794,Davi da Rocha,14,Masculino,9,8,40,Baixo
+795,Gustavo Henrique Rezende,15,Masculino,9,8,40,Médio
+796,Diego Martins,14,Masculino,9,8,40,Médio-Alto
+797,Alana Fogaça,13,Feminino,9,8,40,Médio-Alto
+798,Vinícius da Luz,13,Masculino,9,8,40,Médio
+799,Erick Azevedo,15,Masculino,9,8,40,Médio
+800,Davi Melo,13,Masculino,9,8,40,Baixo
+801,Luan Nogueira,13,Masculino,9,9,41,Médio-Alto
+802,Luísa Marques,15,Feminino,9,9,41,Baixo
+803,João Aparecida,14,Masculino,9,9,41,Baixo
+804,Thales Pimenta,13,Masculino,9,9,41,Baixo
+805,Dra. Fernanda Cavalcante,14,Feminino,9,9,41,Médio
+806,Rodrigo Machado,15,Masculino,9,9,41,Médio
+807,Maria Eduarda Caldeira,15,Feminino,9,9,41,Baixo
+808,Allana Nunes,14,Feminino,9,9,41,Médio
+809,Milena da Cunha,14,Feminino,9,9,41,Baixo
+810,Alícia Fogaça,15,Feminino,9,9,41,Médio-Baixo
+811,Bento Machado,14,Masculino,9,9,41,Baixo
+812,Danilo Vargas,13,Masculino,9,9,41,Médio-Alto
+813,Heloísa Cavalcanti,13,Feminino,9,9,41,Médio-Baixo
+814,Otávio Abreu,13,Masculino,9,9,41,Baixo
+815,Bento Nunes,14,Masculino,9,9,41,Médio-Baixo
+816,Luana Montenegro,15,Feminino,9,9,41,Baixo
+817,Marcela da Rocha,15,Feminino,9,9,41,Médio-Baixo
+818,Alice Sousa,13,Feminino,9,9,41,Médio
+819,Sr. Davi Miguel Mendonça,15,Masculino,9,9,41,Médio-Baixo
+820,Sra. Alícia Monteiro,14,Feminino,9,9,41,Médio
+821,Yasmin Martins,10,Feminino,6,9,42,Médio-Baixo
+822,Sra. Maria Luiza Ramos,11,Feminino,6,9,42,Médio-Baixo
+823,Sra. Maria Luiza Pereira,11,Feminino,6,9,42,Médio-Alto
+824,Laura da Cunha,12,Feminino,6,9,42,Baixo
+825,Brenda Correia,12,Feminino,6,9,42,Médio-Baixo
+826,Luiza Aragão,11,Feminino,6,9,42,Médio
+827,Maria Isis Mendonça,10,Feminino,6,9,42,Baixo
+828,Maria Clara Oliveira,11,Feminino,6,9,42,Médio-Baixo
+829,Vitor Hugo Marques,11,Masculino,6,9,42,Médio
+830,Aurora Silva,12,Feminino,6,9,42,Baixo
+831,Maria Liz Vargas,11,Feminino,6,9,42,Médio-Baixo
+832,Calebe Araújo,11,Masculino,6,9,42,Médio-Baixo
+833,Dra. Vitória Aparecida,12,Feminino,6,9,42,Baixo
+834,Guilherme Guerra,10,Masculino,6,9,42,Médio-Baixo
+835,Luiz Fernando Barbosa,12,Masculino,6,9,42,Médio-Alto
+836,Luiz Miguel Vieira,12,Masculino,6,9,42,Médio
+837,Anthony Rezende,10,Masculino,6,9,42,Baixo
+838,Carlos Eduardo Melo,12,Masculino,6,9,42,Médio-Baixo
+839,Hellena Freitas,12,Feminino,6,9,42,Médio
+840,Alexia Garcia,10,Feminino,6,9,42,Médio-Baixo
+841,Rafael Jesus,12,Masculino,7,9,43,Médio-Alto
+842,Dr. Davi Lucca Casa Grande,11,Masculino,7,9,43,Médio-Baixo
+843,Manuela Ramos,11,Feminino,7,9,43,Baixo
+844,Helena Cirino,12,Feminino,7,9,43,Médio-Baixo
+845,Breno Vieira,11,Masculino,7,9,43,Baixo
+846,Yago Guerra,12,Masculino,7,9,43,Médio
+847,Dra. Sophie da Rosa,13,Feminino,7,9,43,Médio
+848,Sra. Pietra Moreira,13,Feminino,7,9,43,Médio-Alto
+849,Cauê Montenegro,13,Masculino,7,9,43,Médio
+850,Sr. Nathan Silveira,11,Masculino,7,9,43,Baixo
+851,Luara Oliveira,11,Feminino,7,9,43,Médio
+852,Bento Souza,11,Masculino,7,9,43,Médio-Baixo
+853,Bárbara Gomes,11,Feminino,7,9,43,Baixo
+854,Davi Lucas Brito,12,Masculino,7,9,43,Médio-Alto
+855,Benjamin da Costa,12,Masculino,7,9,43,Baixo
+856,Ana Laura Lopes,12,Feminino,7,9,43,Baixo
+857,Agatha Costa,12,Feminino,7,9,43,Médio-Baixo
+858,Maria Flor Camargo,12,Feminino,7,9,43,Médio-Baixo
+859,Fernanda Cavalcante,13,Feminino,7,9,43,Baixo
+860,Matheus da Rocha,11,Masculino,7,9,43,Médio-Baixo
+861,Enrico Viana,15,Masculino,9,9,44,Médio-Alto
+862,Hellena Sales,15,Feminino,9,9,44,Baixo
+863,Lucca Mendonça,14,Masculino,9,9,44,Médio-Alto
+864,Zoe Azevedo,14,Feminino,9,9,44,Médio-Baixo
+865,Antony Dias,15,Masculino,9,9,44,Médio-Baixo
+866,José Montenegro,14,Masculino,9,9,44,Médio-Alto
+867,Emilly Barbosa,14,Feminino,9,9,44,Baixo
+868,Raquel Moraes,14,Feminino,9,9,44,Médio-Alto
+869,Dr. Henry Machado,15,Masculino,9,9,44,Médio-Baixo
+870,Larissa Ferreira,13,Feminino,9,9,44,Baixo
+871,Maria Laura Leão,14,Feminino,9,9,44,Médio
+872,Srta. Heloisa Guerra,15,Feminino,9,9,44,Médio
+873,Dr. Felipe da Cruz,13,Masculino,9,9,44,Médio-Alto
+874,Henry Gabriel Barbosa,15,Masculino,9,9,44,Baixo
+875,Davi Lucca Aragão,14,Masculino,9,9,44,Médio-Alto
+876,João Gabriel da Luz,14,Masculino,9,9,44,Médio
+877,Isis Correia,15,Feminino,9,9,44,Médio
+878,Olivia Moraes,13,Feminino,9,9,44,Médio-Baixo
+879,Sra. Evelyn Freitas,14,Feminino,9,9,44,Médio
+880,Juliana da Mota,14,Feminino,9,9,44,Médio-Baixo
+881,Dra. Olívia Andrade,13,Feminino,8,9,45,Médio-Baixo
+882,Matheus Duarte,12,Masculino,8,9,45,Médio
+883,Beatriz Novaes,14,Feminino,8,9,45,Médio-Baixo
+884,Luísa Aragão,12,Feminino,8,9,45,Médio
+885,Rael Castro,13,Masculino,8,9,45,Médio
+886,Hellena da Paz,13,Feminino,8,9,45,Médio-Alto
+887,Gustavo Henrique Viana,13,Masculino,8,9,45,Médio-Baixo
+888,Sr. Murilo Câmara,12,Masculino,8,9,45,Médio-Alto
+889,Anna Liz Peixoto,14,Feminino,8,9,45,Médio-Alto
+890,Sr. Valentim Pastor,12,Masculino,8,9,45,Médio-Alto
+891,Laís Vargas,14,Feminino,8,9,45,Médio-Alto
+892,Vicente Teixeira,12,Masculino,8,9,45,Baixo
+893,Francisco Cavalcante,13,Masculino,8,9,45,Médio
+894,Eloah Rodrigues,14,Feminino,8,9,45,Baixo
+895,Antônio Costela,13,Masculino,8,9,45,Médio-Alto
+896,Sra. Heloisa Souza,13,Feminino,8,9,45,Médio-Baixo
+897,Evelyn da Conceição,13,Feminino,8,9,45,Médio-Baixo
+898,Lorena Lopes,12,Feminino,8,9,45,Médio
+899,Lorena Brito,12,Feminino,8,9,45,Baixo
+900,Melina Borges,14,Feminino,8,9,45,Médio
+901,Sr. Brayan Moura,12,Masculino,8,10,46,Baixo
+902,Anna Liz Siqueira,13,Feminino,8,10,46,Médio-Alto
+903,Heitor Correia,12,Masculino,8,10,46,Médio-Baixo
+904,Liz Leão,14,Feminino,8,10,46,Médio-Alto
+905,Manuela Barbosa,13,Feminino,8,10,46,Médio-Alto
+906,Pedro Henrique Cirino,12,Masculino,8,10,46,Médio
+907,Sr. Erick Teixeira,13,Masculino,8,10,46,Médio-Alto
+908,Samuel Pacheco,13,Masculino,8,10,46,Médio
+909,Calebe Jesus,12,Masculino,8,10,46,Baixo
+910,Bianca Nunes,14,Feminino,8,10,46,Baixo
+911,Emanuelly Moraes,12,Feminino,8,10,46,Médio
+912,Daniel da Paz,13,Masculino,8,10,46,Médio-Alto
+913,José Miguel Dias,12,Masculino,8,10,46,Baixo
+914,Dr. Anthony Cirino,13,Masculino,8,10,46,Médio-Baixo
+915,Pedro Lucas Peixoto,14,Masculino,8,10,46,Médio-Alto
+916,Sr. Isaque Pacheco,12,Masculino,8,10,46,Médio-Alto
+917,Gustavo Henrique Rocha,12,Masculino,8,10,46,Baixo
+918,Bárbara Ferreira,14,Feminino,8,10,46,Médio-Baixo
+919,Srta. Manuella Pimenta,14,Feminino,8,10,46,Médio
+920,Sr. Davi Gonçalves,12,Masculino,8,10,46,Médio-Baixo
+921,Marcela Peixoto,14,Feminino,9,10,47,Médio
+922,Brenda da Rocha,15,Feminino,9,10,47,Baixo
+923,Sra. Maria Luiza Pereira,15,Feminino,9,10,47,Médio
+924,Isis Lopes,14,Feminino,9,10,47,Médio-Baixo
+925,Sra. Ana Lívia Pimenta,15,Feminino,9,10,47,Médio-Baixo
+926,Gabriel Pastor,15,Masculino,9,10,47,Médio-Baixo
+927,Maria Alice Vasconcelos,13,Feminino,9,10,47,Médio-Alto
+928,Thales Sá,14,Masculino,9,10,47,Médio
+929,Kevin Macedo,14,Masculino,9,10,47,Médio
+930,Sr. Igor Silva,15,Masculino,9,10,47,Baixo
+931,Srta. Rebeca Novais,15,Feminino,9,10,47,Médio
+932,Felipe Cunha,15,Masculino,9,10,47,Médio-Baixo
+933,Aylla Rodrigues,13,Feminino,9,10,47,Médio
+934,Srta. Eduarda Alves,13,Feminino,9,10,47,Médio-Alto
+935,Manuela Sá,14,Feminino,9,10,47,Médio-Alto
+936,Mariana Vargas,14,Feminino,9,10,47,Médio-Alto
+937,João Vitor Albuquerque,14,Masculino,9,10,47,Médio
+938,Davi da Cruz,13,Masculino,9,10,47,Médio
+939,Marcos Vinicius Barbosa,14,Masculino,9,10,47,Médio-Alto
+940,Gael Azevedo,15,Masculino,9,10,47,Médio-Alto
+941,Oliver Peixoto,15,Masculino,9,10,48,Médio-Baixo
+942,Dr. Heitor Silva,15,Masculino,9,10,48,Baixo
+943,Ayla da Mata,13,Feminino,9,10,48,Médio
+944,Caroline Pinto,13,Feminino,9,10,48,Médio-Alto
+945,Srta. Sarah Moura,13,Feminino,9,10,48,Médio-Alto
+946,Sra. Ísis Souza,15,Feminino,9,10,48,Médio
+947,Sr. Dante Borges,14,Masculino,9,10,48,Médio-Baixo
+948,Maria Helena das Neves,13,Feminino,9,10,48,Médio-Alto
+949,Srta. Emanuella Guerra,15,Feminino,9,10,48,Baixo
+950,Lorena Marques,14,Feminino,9,10,48,Médio-Alto
+951,Ian Monteiro,15,Masculino,9,10,48,Médio
+952,Olivia Martins,14,Feminino,9,10,48,Médio
+953,Igor Barbosa,15,Masculino,9,10,48,Médio-Baixo
+954,Gabriel Campos,13,Masculino,9,10,48,Médio-Baixo
+955,Marcelo Novais,13,Masculino,9,10,48,Médio-Baixo
+956,Dante Fogaça,14,Masculino,9,10,48,Médio-Baixo
+957,Maria Eduarda Santos,13,Feminino,9,10,48,Baixo
+958,Maria Luísa Montenegro,14,Feminino,9,10,48,Baixo
+959,Luiz Henrique Rodrigues,14,Masculino,9,10,48,Médio-Alto
+960,Dra. Rebeca Leão,15,Feminino,9,10,48,Médio-Alto
+961,José Ramos,12,Masculino,7,10,49,Médio-Alto
+962,Ana Clara Gonçalves,11,Feminino,7,10,49,Médio
+963,Francisco Aparecida,12,Masculino,7,10,49,Baixo
+964,Srta. Lavínia da Conceição,12,Feminino,7,10,49,Médio-Baixo
+965,Ana Clara Andrade,12,Feminino,7,10,49,Médio
+966,Maria Fernanda Leão,13,Feminino,7,10,49,Médio-Alto
+967,Thales da Mata,12,Masculino,7,10,49,Baixo
+968,Sra. Bárbara Lopes,11,Feminino,7,10,49,Baixo
+969,Guilherme Mendes,11,Masculino,7,10,49,Médio-Baixo
+970,Sr. Mathias da Mata,11,Masculino,7,10,49,Baixo
+971,José Araújo,13,Masculino,7,10,49,Baixo
+972,Cecília Borges,13,Feminino,7,10,49,Médio-Alto
+973,Maria Júlia Freitas,13,Feminino,7,10,49,Médio-Alto
+974,Theo Pinto,12,Masculino,7,10,49,Baixo
+975,Sr. Henry Gabriel da Luz,12,Masculino,7,10,49,Médio-Alto
+976,Nina Nascimento,12,Feminino,7,10,49,Médio-Baixo
+977,Hellena Moreira,11,Feminino,7,10,49,Médio-Alto
+978,Esther Aparecida,13,Feminino,7,10,49,Médio-Alto
+979,Sr. Enrico Camargo,11,Masculino,7,10,49,Médio-Alto
+980,Kaique Câmara,13,Masculino,7,10,49,Médio-Baixo
+981,Luiz Felipe Brito,10,Masculino,6,10,50,Médio-Baixo
+982,Dr. Lorenzo Andrade,12,Masculino,6,10,50,Baixo
+983,Melina Ramos,11,Feminino,6,10,50,Médio-Alto
+984,Ana Lima,11,Feminino,6,10,50,Médio-Alto
+985,Dra. Maria Julia Alves,11,Feminino,6,10,50,Médio-Alto
+986,Dr. Matteo Rocha,10,Masculino,6,10,50,Baixo
+987,Luiz Fernando Cardoso,12,Masculino,6,10,50,Médio-Alto
+988,Sofia Pereira,12,Feminino,6,10,50,Médio-Alto
+989,Raul das Neves,12,Masculino,6,10,50,Médio-Alto
+990,Sara da Luz,12,Feminino,6,10,50,Médio-Alto
+991,Maria Clara Porto,11,Feminino,6,10,50,Médio
+992,Cecilia Pastor,12,Feminino,6,10,50,Médio-Alto
+993,Erick Borges,10,Masculino,6,10,50,Baixo
+994,Isaque Melo,12,Masculino,6,10,50,Médio-Alto
+995,Samuel Martins,12,Masculino,6,10,50,Médio-Baixo
+996,Asafe Porto,12,Masculino,6,10,50,Médio-Alto
+997,Theodoro Mendes,12,Masculino,6,10,50,Médio
+998,Yasmin Viana,10,Feminino,6,10,50,Médio-Baixo
+999,Dr. Vicente Vasconcelos,11,Masculino,6,10,50,Médio-Alto
+1000,Otto Carvalho,12,Masculino,6,10,50,Baixo
